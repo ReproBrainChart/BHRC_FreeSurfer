@@ -1,826 +1,826 @@
 participant_id	study	ses_id	euler	rater_1	rater_3	rater_4	rater_5	rater_6	across_rater_average	qc_determination
-sub-10618	BHRC	ses-1	-144	1	0.75				0.875	Artifact
-sub-10627	BHRC	ses-1	-58	0.75	1				0.875	Artifact
-sub-10631	BHRC	ses-1	-101	1	1				1	Pass
-sub-10631	BHRC	ses-1	-65	1	1				1	Pass
-sub-10632	BHRC	ses-1	-70	1	1				1	Pass
-sub-10646	BHRC	ses-1	-118	1	1				1	Pass
-sub-10648	BHRC	ses-1	-106	1	0.75				0.875	Artifact
-sub-10650	BHRC	ses-1	-69	1	1				1	Pass
-sub-10651	BHRC	ses-1	-35	1	1				1	Pass
-sub-10659	BHRC	ses-1	-67	1	1				1	Pass
-sub-10665	BHRC	ses-1	-52	1	1				1	Pass
-sub-10683	BHRC	ses-1	-90	1	1				1	Pass
-sub-10683	BHRC	ses-1	-85	1	1				1	Pass
-sub-10684	BHRC	ses-1	-133	1	1				1	Pass
-sub-10685	BHRC	ses-1	-100	1	0.75				0.875	Artifact
-sub-10701	BHRC	ses-1	-63	1	1				1	Pass
-sub-10710	BHRC	ses-1	-126	1	1				1	Pass
-sub-10718	BHRC	ses-1	-38	1	1				1	Pass
-sub-10772	BHRC	ses-1	-53	1	1				1	Pass
-sub-10792	BHRC	ses-1	-156	0.75	0.75				0.75	Artifact
-sub-10798	BHRC	ses-1	-70	1	1				1	Pass
-sub-10800	BHRC	ses-1	-88	1	1				1	Pass
-sub-10808	BHRC	ses-1	-75	1	1				1	Pass
-sub-10819	BHRC	ses-1	-124	0.75	0.75				0.75	Artifact
-sub-10821	BHRC	ses-1	-96	1	1				1	Pass
-sub-10824	BHRC	ses-1	-60	1	1				1	Pass
-sub-10825	BHRC	ses-1	-58	1	1				1	Pass
-sub-10825	BHRC	ses-1	-46	1	1				1	Pass
-sub-10841	BHRC	ses-1	-24	1	1				1	Pass
-sub-10849	BHRC	ses-1	-176	1	1				1	Pass
-sub-10853	BHRC	ses-1	-95	1	1				1	Pass
-sub-10869	BHRC	ses-1	-68	1	1				1	Pass
-sub-10873	BHRC	ses-1	-79	1	1				1	Pass
-sub-10917	BHRC	ses-1	-54	1	1				1	Pass
-sub-10921	BHRC	ses-1	-91	1	1				1	Pass
-sub-10934	BHRC	ses-1	-122	1	1				1	Pass
-sub-10961	BHRC	ses-1	-74	1	1				1	Pass
-sub-10973	BHRC	ses-1	-137	1	1				1	Pass
-sub-10987	BHRC	ses-1	-67	1	1				1	Pass
-sub-11021	BHRC	ses-1	-98	1	1				1	Pass
-sub-11044	BHRC	ses-1	-75	1	1				1	Pass
-sub-11122	BHRC	ses-1	-48	1	1				1	Pass
-sub-11144	BHRC	ses-1	-139	1	1				1	Pass
-sub-11144	BHRC	ses-1	-106	1	1				1	Pass
-sub-11160	BHRC	ses-1	-59	1	1				1	Pass
-sub-11161	BHRC	ses-1	-64	1	1				1	Pass
-sub-11170	BHRC	ses-1	-128	1	1				1	Pass
-sub-11197	BHRC	ses-1	-71	1	1				1	Pass
-sub-11207	BHRC	ses-1	-62	1	1				1	Pass
-sub-11210	BHRC	ses-1	-48	1	1				1	Pass
-sub-11227	BHRC	ses-1	-68	1	1				1	Pass
-sub-11276	BHRC	ses-1	-130	0.5	0.25				0.375	Artifact
-sub-11325	BHRC	ses-1	-61	1	1				1	Pass
-sub-11477	BHRC	ses-1	-41	1	1				1	Pass
-sub-11756	BHRC	ses-1	-108	1	1				1	Pass
-sub-11914	BHRC	ses-1	-72	1	1				1	Pass
-sub-20013	BHRC	ses-2	-109	1	1				1	Pass
-sub-20043	BHRC	ses-2	-69	1	1				1	Pass
-sub-20050	BHRC	ses-2	-45	1	1				1	Pass
-sub-20076	BHRC	ses-2	-58	1	1				1	Pass
-sub-20080	BHRC	ses-2	-44	1	1				1	Pass
-sub-20080	BHRC	ses-2	-43	1	1				1	Pass
-sub-20096	BHRC	ses-2	-64	1	1				1	Pass
-sub-20130	BHRC	ses-2	-81	1	1				1	Pass
-sub-20130	BHRC	ses-2	-84	1	1				1	Pass
-sub-20157	BHRC	ses-2	-96	1	1				1	Pass
-sub-20160	BHRC	ses-2	-83	1	1				1	Pass
-sub-20161	BHRC	ses-2	-81	1	0.5				0.75	Artifact
-sub-20208	BHRC	ses-2	-50	1	1				1	Pass
-sub-20215	BHRC	ses-2	-59	1	1				1	Pass
-sub-20222	BHRC	ses-2	-55	1	1				1	Pass
-sub-20228	BHRC	ses-2	-76	1	1				1	Pass
-sub-20231	BHRC	ses-2	-82	1	1				1	Pass
-sub-20245	BHRC	ses-2	-73	1	0.75				0.875	Artifact
-sub-20271	BHRC	ses-2	-54	1	1				1	Pass
-sub-20279	BHRC	ses-2	-53	1	1				1	Pass
-sub-20292	BHRC	ses-2	-120	1	1				1	Pass
-sub-20294	BHRC	ses-2	-104	1	1				1	Pass
-sub-20295	BHRC	ses-2	-93	1	1				1	Pass
-sub-20302	BHRC	ses-2	-51	1	1				1	Pass
-sub-20311	BHRC	ses-2	-74	1	0.75				0.875	Artifact
-sub-20312	BHRC	ses-2	-102	1	1				1	Pass
-sub-20326	BHRC	ses-2	-37	1	1				1	Pass
-sub-20332	BHRC	ses-2	-94	1	1				1	Pass
-sub-20338	BHRC	ses-2	-52	1	1				1	Pass
-sub-20350	BHRC	ses-2	-92	1	1				1	Pass
-sub-20384	BHRC	ses-2	-57	1	1				1	Pass
-sub-20400	BHRC	ses-2	-97	1	1				1	Pass
-sub-20409	BHRC	ses-2	-89	1	1				1	Pass
-sub-20414	BHRC	ses-2	-56	1	1				1	Pass
-sub-20422	BHRC	ses-2	-64	1	1				1	Pass
-sub-20425	BHRC	ses-2	-52	1	1				1	Pass
-sub-20445	BHRC	ses-2	-110	1	1				1	Pass
-sub-20446	BHRC	ses-2	-89	1	1				1	Pass
-sub-20453	BHRC	ses-2	-71	1	1				1	Pass
-sub-20456	BHRC	ses-2	-87	1	1				1	Pass
-sub-20461	BHRC	ses-2	-31	1	1				1	Pass
-sub-20469	BHRC	ses-2	-84	1	1				1	Pass
-sub-20482	BHRC	ses-2	-86	1	1				1	Pass
-sub-20492	BHRC	ses-2	-150	1	0.75				0.875	Artifact
-sub-20505	BHRC	ses-2	-62	1	1				1	Pass
-sub-20512	BHRC	ses-2	-67	1	1				1	Pass
-sub-20514	BHRC	ses-2	-43	1	1				1	Pass
-sub-20529	BHRC	ses-2	-47	1	1				1	Pass
-sub-20530	BHRC	ses-2	-116	1	0.75				0.875	Artifact
-sub-20544	BHRC	ses-2	-47	1	1				1	Pass
-sub-20550	BHRC	ses-2	-61	0.75	1				0.875	Artifact
-sub-20577	BHRC	ses-2	-82	1	1				1	Pass
-sub-20588	BHRC	ses-2	-62	1	1				1	Pass
-sub-20590	BHRC	ses-2	-60	1	1				1	Pass
-sub-20605	BHRC	ses-2	-45	1	1				1	Pass
-sub-20605	BHRC	ses-2	-49	1	1				1	Pass
-sub-20614	BHRC	ses-2	-59	1	1				1	Pass
-sub-20620	BHRC	ses-2	-47	1	1				1	Pass
-sub-20625	BHRC	ses-2	-80	1	1				1	Pass
-sub-20626	BHRC	ses-2	-71	1	1				1	Pass
-sub-20636	BHRC	ses-2	-33	1	1				1	Pass
-sub-20640	BHRC	ses-2	-85	1	1				1	Pass
-sub-20640	BHRC	ses-2	-77	1	1				1	Pass
-sub-20648	BHRC	ses-2	-222	0	0				0	Fail
-sub-20699	BHRC	ses-2	-36	1	1				1	Pass
-sub-20714	BHRC	ses-2	-74	1	1				1	Pass
-sub-20719	BHRC	ses-2	-63	1	1				1	Pass
-sub-20725	BHRC	ses-2	-70	1	1				1	Pass
-sub-20754	BHRC	ses-2	-65	1	1				1	Pass
-sub-20760	BHRC	ses-2	-75	1	1				1	Pass
-sub-20765	BHRC	ses-2	-73	1	1				1	Pass
-sub-20780	BHRC	ses-2	-58	1	1				1	Pass
-sub-20783	BHRC	ses-2	-42	1	1				1	Pass
-sub-20800	BHRC	ses-2	-87	1	1				1	Pass
-sub-20803	BHRC	ses-2	-78	1	1				1	Pass
-sub-20839	BHRC	ses-2	-66	1	1				1	Pass
-sub-20839	BHRC	ses-2	-87	1	1				1	Pass
-sub-20852	BHRC	ses-2	-78	1	1				1	Pass
-sub-20860	BHRC	ses-2	-84	1	1				1	Pass
-sub-20877	BHRC	ses-2	-65	1	0.75				0.875	Artifact
-sub-20879	BHRC	ses-2	-82	1	1				1	Pass
-sub-20882	BHRC	ses-2	-40	1	1				1	Pass
-sub-20909	BHRC	ses-2	-79	1	1				1	Pass
-sub-20916	BHRC	ses-2	-65	1	1				1	Pass
-sub-20948	BHRC	ses-2	-51	1	1				1	Pass
-sub-20963	BHRC	ses-2	-73	1	1				1	Pass
-sub-20965	BHRC	ses-2	-77	1	1				1	Pass
-sub-20965	BHRC	ses-2	-102	1	1				1	Pass
-sub-20982	BHRC	ses-2	-48	1	1				1	Pass
-sub-20982	BHRC	ses-2	-56	1	1				1	Pass
-sub-20985	BHRC	ses-2	-72	1	1				1	Pass
-sub-20985	BHRC	ses-2	-113	1	1				1	Pass
-sub-21004	BHRC	ses-2	-57	1	1				1	Pass
-sub-21009	BHRC	ses-2	-97	1	1				1	Pass
-sub-21041	BHRC	ses-2	-112	1	1				1	Pass
-sub-21055	BHRC	ses-2	-68	1	1				1	Pass
-sub-21059	BHRC	ses-2	-67	1	1				1	Pass
-sub-21075	BHRC	ses-2	-60	1	1				1	Pass
-sub-21078	BHRC	ses-2	-68	1	1				1	Pass
-sub-21083	BHRC	ses-2	-74	1	1				1	Pass
-sub-21106	BHRC	ses-2	-83	1	1				1	Pass
-sub-21110	BHRC	ses-2	-56	1	1				1	Pass
-sub-21133	BHRC	ses-2	-39	1	1				1	Pass
-sub-21155	BHRC	ses-2	-164	1	1				1	Pass
-sub-21155	BHRC	ses-2	-105	1	0.75				0.875	Artifact
-sub-21171	BHRC	ses-2	-72	1	1				1	Pass
-sub-21243	BHRC	ses-2	-50	1	1				1	Pass
-sub-21583	BHRC	ses-2	-63	1	0.75				0.875	Artifact
-sub-21755	BHRC	ses-2	-86	1	1				1	Pass
-sub-10612	BHRC	ses-1	-132			0.5	0.75	0.5	0.583333333	Artifact
-sub-10615	BHRC	ses-1	-65			1	1	1	1	Pass
-sub-10620	BHRC	ses-1	-97			1	1	1	1	Pass
-sub-10621	BHRC	ses-1	-43			1	1	1	1	Pass
-sub-10622	BHRC	ses-1	-149			1	1	1	1	Pass
-sub-10628	BHRC	ses-1	-66			1	1	1	1	Pass
-sub-10648	BHRC	ses-1	-111			0.75	1	0.75	0.833333333	Artifact
-sub-10662	BHRC	ses-1	-138			1	1	1	1	Pass
-sub-10662	BHRC	ses-1	-115			1	1	1	1	Pass
-sub-10667	BHRC	ses-1	-200			1	0.5	0.75	0.75	Artifact
-sub-10675	BHRC	ses-1	-49			1	1	1	1	Pass
-sub-10685	BHRC	ses-1	-93			1	1	1	1	Pass
-sub-10700	BHRC	ses-1	-121			1	1	1	1	Pass
-sub-10703	BHRC	ses-1	-71			1	1	1	1	Pass
-sub-10718	BHRC	ses-1	-46			1	1	1	1	Pass
-sub-10744	BHRC	ses-1	-106			1	1	1	1	Pass
-sub-10746	BHRC	ses-1	-79			1	1	1	1	Pass
-sub-10747	BHRC	ses-1	-76			1	1	1	1	Pass
-sub-10758	BHRC	ses-1	-142			1	1	1	1	Pass
-sub-10763	BHRC	ses-1	-80			1	1	1	1	Pass
-sub-10772	BHRC	ses-1	-45			1	1	1	1	Pass
-sub-10779	BHRC	ses-1	-129			1	1	1	1	Pass
-sub-10782	BHRC	ses-1	-82			1	1	1	1	Pass
-sub-10786	BHRC	ses-1	-69			1	1	1	1	Pass
-sub-10791	BHRC	ses-1	-53			1	1	1	1	Pass
-sub-10826	BHRC	ses-1	-87			1	1	1	1	Pass
-sub-10830	BHRC	ses-1	-60			1	1	1	1	Pass
-sub-10860	BHRC	ses-1	-37			1	1	1	1	Pass
-sub-10893	BHRC	ses-1	-154			1	1	1	1	Pass
-sub-10925	BHRC	ses-1	-105			1	1	1	1	Pass
-sub-10963	BHRC	ses-1	-59			1	1	1	1	Pass
-sub-10963	BHRC	ses-1	-68			1	1	1	1	Pass
-sub-10973	BHRC	ses-1	-109			1	1	1	1	Pass
-sub-10979	BHRC	ses-1	-137			1	1	1	1	Pass
-sub-10979	BHRC	ses-1	-117			1	1	1	1	Pass
-sub-10981	BHRC	ses-1	-125			1	1	0.5	0.833333333	Artifact
-sub-10990	BHRC	ses-1	-82			1	1	1	1	Pass
-sub-11004	BHRC	ses-1	-70			1	1	1	1	Pass
-sub-11018	BHRC	ses-1	-56			1	1	1	1	Pass
-sub-11058	BHRC	ses-1	-119			1	1	1	1	Pass
-sub-11058	BHRC	ses-1	-88			1	1	1	1	Pass
-sub-11133	BHRC	ses-1	-67			1	1	0.5	0.833333333	Artifact
-sub-11149	BHRC	ses-1	-102			1	1	1	1	Pass
-sub-11156	BHRC	ses-1	-170			1	1	1	1	Pass
-sub-11159	BHRC	ses-1	-47			1	1	1	1	Pass
-sub-11161	BHRC	ses-1	-61			1	1	1	1	Pass
-sub-11171	BHRC	ses-1	-72			1	1	1	1	Pass
-sub-11207	BHRC	ses-1	-50			1	1	1	1	Pass
-sub-11843	BHRC	ses-1	-69			1	1	1	1	Pass
-sub-20008	BHRC	ses-2	-68			1	1	0.5	0.833333333	Artifact
-sub-20016	BHRC	ses-2	-38			1	1	1	1	Pass
-sub-20018	BHRC	ses-2	-73			1	1	1	1	Pass
-sub-20035	BHRC	ses-2	-59			1	1	1	1	Pass
-sub-20040	BHRC	ses-2	-123			1	1	1	1	Pass
-sub-20041	BHRC	ses-2	-62			1	1	1	1	Pass
-sub-20062	BHRC	ses-2	-74			1	1	1	1	Pass
-sub-20072	BHRC	ses-2	-40			1	1	1	1	Pass
-sub-20073	BHRC	ses-2	-58			1	1	1	1	Pass
-sub-20085	BHRC	ses-2	-74			1	1	1	1	Pass
-sub-20091	BHRC	ses-2	-86			1	1	1	1	Pass
-sub-20095	BHRC	ses-2	-87			1	1	1	1	Pass
-sub-20097	BHRC	ses-2	-70			1	1	0.5	0.833333333	Artifact
-sub-20099	BHRC	ses-2	-48			1	1	1	1	Pass
-sub-20139	BHRC	ses-2	-88			1	1	1	1	Pass
-sub-20146	BHRC	ses-2	-92			1	1	1	1	Pass
-sub-20146	BHRC	ses-2	-58			1	1	1	1	Pass
-sub-20149	BHRC	ses-2	-56			1	1	1	1	Pass
-sub-20150	BHRC	ses-2	-85			1	1	1	1	Pass
-sub-20150	BHRC	ses-2	-96			1	1	1	1	Pass
-sub-20168	BHRC	ses-2	-27			1	1	1	1	Pass
-sub-20168	BHRC	ses-2	-21			1	1	0.75	0.916666667	Artifact
-sub-20170	BHRC	ses-2	-85			1	1	1	1	Pass
-sub-20174	BHRC	ses-2	-52			1	1	1	1	Pass
-sub-20184	BHRC	ses-2	-75			1	1	1	1	Pass
-sub-20215	BHRC	ses-2	-63			1	1	1	1	Pass
-sub-20230	BHRC	ses-2	-59			1	1	0.75	0.916666667	Artifact
-sub-20231	BHRC	ses-2	-81			1	1	1	1	Pass
-sub-20270	BHRC	ses-2	-105			1	1	0.75	0.916666667	Artifact
-sub-20284	BHRC	ses-2	-68			1	1	0.75	0.916666667	Artifact
-sub-20293	BHRC	ses-2	-65			1	1	1	1	Pass
-sub-20296	BHRC	ses-2	-47			1	1	1	1	Pass
-sub-20298	BHRC	ses-2	-78			1	1	1	1	Pass
-sub-20306	BHRC	ses-2	-72			1	1	1	1	Pass
-sub-20311	BHRC	ses-2	-81			1	0.75	0.75	0.833333333	Artifact
-sub-20322	BHRC	ses-2	-64			1	1	1	1	Pass
-sub-20329	BHRC	ses-2	-64			1	1	1	1	Pass
-sub-20336	BHRC	ses-2	-71			1	1	1	1	Pass
-sub-20336	BHRC	ses-2	-71			1	1	1	1	Pass
-sub-20340	BHRC	ses-2	-62			1	1	1	1	Pass
-sub-20360	BHRC	ses-2	-84			1	1	1	1	Pass
-sub-20361	BHRC	ses-2	-95			1	1	0.75	0.916666667	Artifact
-sub-20366	BHRC	ses-2	-84			1	1	1	1	Pass
-sub-20369	BHRC	ses-2	-51			1	1	1	1	Pass
-sub-20378	BHRC	ses-2	-71			1	1	1	1	Pass
-sub-20380	BHRC	ses-2	-58			1	1	1	1	Pass
-sub-20430	BHRC	ses-2	-43			1	1	1	1	Pass
-sub-20431	BHRC	ses-2	-78			1	1	1	1	Pass
-sub-20437	BHRC	ses-2	-65			1	1	1	1	Pass
-sub-20453	BHRC	ses-2	-90			1	1	1	1	Pass
-sub-20460	BHRC	ses-2	-80			1	1	1	1	Pass
-sub-20467	BHRC	ses-2	-50			1	1	1	1	Pass
-sub-20474	BHRC	ses-2	-73			1	1	1	1	Pass
-sub-20480	BHRC	ses-2	-99			1	1	0.75	0.916666667	Artifact
-sub-20487	BHRC	ses-2	-63			1	1	1	1	Pass
-sub-20519	BHRC	ses-2	-113			1	1	1	1	Pass
-sub-20528	BHRC	ses-2	-79			1	1	0.75	0.916666667	Artifact
-sub-20571	BHRC	ses-2	-38			1	1	1	1	Pass
-sub-20577	BHRC	ses-2	-54			1	1	1	1	Pass
-sub-20580	BHRC	ses-2	-93			1	1	0.75	0.916666667	Artifact
-sub-20597	BHRC	ses-2	-33			1	1	1	1	Pass
-sub-20604	BHRC	ses-2	-61			1	1	1	1	Pass
-sub-20611	BHRC	ses-2	-67			1	1	1	1	Pass
-sub-20621	BHRC	ses-2	-127			1	1	0.5	0.833333333	Artifact
-sub-20627	BHRC	ses-2	-86			1	1	1	1	Pass
-sub-20639	BHRC	ses-2	-61			1	1	1	1	Pass
-sub-20639	BHRC	ses-2	-57			1	1	1	1	Pass
-sub-20648	BHRC	ses-2	-83			1	1	1	1	Pass
-sub-20652	BHRC	ses-2	-104			1	1	1	1	Pass
-sub-20665	BHRC	ses-2	-67			1	1	1	1	Pass
-sub-20678	BHRC	ses-2	-67			1	1	1	1	Pass
-sub-20678	BHRC	ses-2	-68			1	1	1	1	Pass
-sub-20688	BHRC	ses-2	-68			1	1	1	1	Pass
-sub-20688	BHRC	ses-2	-48			1	1	1	1	Pass
-sub-20689	BHRC	ses-2	-56			1	1	1	1	Pass
-sub-20706	BHRC	ses-2	-75			1	1	1	1	Pass
-sub-20731	BHRC	ses-2	-55			1	1	1	1	Pass
-sub-20744	BHRC	ses-2	-96			1	1	1	1	Pass
-sub-20746	BHRC	ses-2	-86			1	1	1	1	Pass
-sub-20765	BHRC	ses-2	-74			1	1	1	1	Pass
-sub-20773	BHRC	ses-2	-63			1	1	1	1	Pass
-sub-20799	BHRC	ses-2	-53			1	1	0.75	0.916666667	Artifact
-sub-20806	BHRC	ses-2	-77			1	1	1	1	Pass
-sub-20815	BHRC	ses-2	-59			1	1	1	1	Pass
-sub-20826	BHRC	ses-2	-42			1	1	0.75	0.916666667	Artifact
-sub-20840	BHRC	ses-2	-57			1	1	1	1	Pass
-sub-20848	BHRC	ses-2	-50			1	1	0.75	0.916666667	Artifact
-sub-20877	BHRC	ses-2	-102			1	1	1	1	Pass
-sub-20878	BHRC	ses-2	-96			1	1	1	1	Pass
-sub-20891	BHRC	ses-2	-60			1	1	1	1	Pass
-sub-20894	BHRC	ses-2	-46			1	1	0.75	0.916666667	Artifact
-sub-20911	BHRC	ses-2	-44			1	1	1	1	Pass
-sub-20954	BHRC	ses-2	-75			1	1	0.75	0.916666667	Artifact
-sub-20963	BHRC	ses-2	-48			1	1	1	1	Pass
-sub-20978	BHRC	ses-2	-89			1	1	1	1	Pass
-sub-20992	BHRC	ses-2	-65			1	1	1	1	Pass
-sub-20995	BHRC	ses-2	-101			1	1	1	1	Pass
-sub-21012	BHRC	ses-2	-110			1	1	1	1	Pass
-sub-21012	BHRC	ses-2	-157			1	1	1	1	Pass
-sub-21018	BHRC	ses-2	-51			1	1	1	1	Pass
-sub-21044	BHRC	ses-2	-72			1	1	1	1	Pass
-sub-21062	BHRC	ses-2	-89			1	1	1	1	Pass
-sub-21080	BHRC	ses-2	-54			1	1	1	1	Pass
-sub-21092	BHRC	ses-2	-52			1	1	1	1	Pass
-sub-21133	BHRC	ses-2	-82			1	1	1	1	Pass
-sub-21138	BHRC	ses-2	-98			1	1	1	1	Pass
-sub-21164	BHRC	ses-2	-107			1	1	1	1	Pass
-sub-21166	BHRC	ses-2	-64			1	1	0.75	0.916666667	Artifact
-sub-21166	BHRC	ses-2	-55			1	1	1	1	Pass
-sub-21178	BHRC	ses-2	-76			1	1	1	1	Pass
-sub-21313	BHRC	ses-2	-36			1	1	1	1	Pass
-sub-21341	BHRC	ses-2	-34			1	1	1	1	Pass
-sub-21510	BHRC	ses-2	-74			1	1	1	1	Pass
-sub-21674	BHRC	ses-2	-44			1	1	1	1	Pass
-sub-21857	BHRC	ses-2	-40			1	1	1	1	Pass
-sub-21858	BHRC	ses-2	-83			1	1	1	1	Pass
-sub-10001	BHRC	ses-1	-139	1			1		1	Pass
-sub-10615	BHRC	ses-1	-102	1			1		1	Pass
-sub-10620	BHRC	ses-1	-81	1			1		1	Pass
-sub-10632	BHRC	ses-1	-129	1			1		1	Pass
-sub-10640	BHRC	ses-1	-53	1			1		1	Pass
-sub-10643	BHRC	ses-1	-125	1			1		1	Pass
-sub-10644	BHRC	ses-1	-87	1			1		1	Pass
-sub-10644	BHRC	ses-1	-78	1			1		1	Pass
-sub-10654	BHRC	ses-1	-72	1			1		1	Pass
-sub-10659	BHRC	ses-1	-105	1			1		1	Pass
-sub-10686	BHRC	ses-1	-44	1			1		1	Pass
-sub-10695	BHRC	ses-1	-90	1			1		1	Pass
-sub-10698	BHRC	ses-1	-132	1			1		1	Pass
-sub-10712	BHRC	ses-1	-83	1			1		1	Pass
-sub-10712	BHRC	ses-1	-88	1			1		1	Pass
-sub-10713	BHRC	ses-1	-108	1			1		1	Pass
-sub-10740	BHRC	ses-1	-127	1			1		1	Pass
-sub-10749	BHRC	ses-1	-57	1			1		1	Pass
-sub-10751	BHRC	ses-1	-71	1			1		1	Pass
-sub-10762	BHRC	ses-1	-85	1			1		1	Pass
-sub-10762	BHRC	ses-1	-75	1			1		1	Pass
-sub-10774	BHRC	ses-1	-71	1			1		1	Pass
-sub-10781	BHRC	ses-1	-158	1			1		1	Pass
-sub-10786	BHRC	ses-1	-66	1			1		1	Pass
-sub-10788	BHRC	ses-1	-155	1			1		1	Pass
-sub-10788	BHRC	ses-1	-137	1			1		1	Pass
-sub-10790	BHRC	ses-1	-63	1			1		1	Pass
-sub-10820	BHRC	ses-1	-118	1			1		1	Pass
-sub-10835	BHRC	ses-1	-59	1			1		1	Pass
-sub-10845	BHRC	ses-1	-120	1			1		1	Pass
-sub-10867	BHRC	ses-1	-70	1			1		1	Pass
-sub-10875	BHRC	ses-1	-58	1			1		1	Pass
-sub-10881	BHRC	ses-1	-150	1			1		1	Pass
-sub-10903	BHRC	ses-1	-75	1			1		1	Pass
-sub-10903	BHRC	ses-1	-59	1			1		1	Pass
-sub-10950	BHRC	ses-1	-72	1			1		1	Pass
-sub-10951	BHRC	ses-1	-172	1			1		1	Pass
-sub-10981	BHRC	ses-1	-67	1			1		1	Pass
-sub-10984	BHRC	ses-1	-92	1			1		1	Pass
-sub-11005	BHRC	ses-1	-37	1			1		1	Pass
-sub-11030	BHRC	ses-1	-76	1			1		1	Pass
-sub-11039	BHRC	ses-1	-85	1			1		1	Pass
-sub-11120	BHRC	ses-1	-68	1			1		1	Pass
-sub-11171	BHRC	ses-1	-38	1			1		1	Pass
-sub-11239	BHRC	ses-1	-67	1			1		1	Pass
-sub-11244	BHRC	ses-1	-34	1			1		1	Pass
-sub-20010	BHRC	ses-2	-84	1			1		1	Pass
-sub-20013	BHRC	ses-2	-98	1			1		1	Pass
-sub-20014	BHRC	ses-2	-40	1			1		1	Pass
-sub-20032	BHRC	ses-2	-94	1			1		1	Pass
-sub-20046	BHRC	ses-2	-84	1			1		1	Pass
-sub-20047	BHRC	ses-2	-50	1			1		1	Pass
-sub-20047	BHRC	ses-2	-72	1			1		1	Pass
-sub-20048	BHRC	ses-2	-203	0.75			0.5		0.625	Artifact
-sub-20054	BHRC	ses-2	-78	1			1		1	Pass
-sub-20067	BHRC	ses-2	-60	1			1		1	Pass
-sub-20071	BHRC	ses-2	-61	1			1		1	Pass
-sub-20072	BHRC	ses-2	-46	1			1		1	Pass
-sub-20082	BHRC	ses-2	-69	1			1		1	Pass
-sub-20089	BHRC	ses-2	-79	1			1		1	Pass
-sub-20091	BHRC	ses-2	-74	1			1		1	Pass
-sub-20096	BHRC	ses-2	-74	1			1		1	Pass
-sub-20105	BHRC	ses-2	-23	1			1		1	Pass
-sub-20119	BHRC	ses-2	-82	1			1		1	Pass
-sub-20136	BHRC	ses-2	-65	1			1		1	Pass
-sub-20141	BHRC	ses-2	-49	1			1		1	Pass
-sub-20160	BHRC	ses-2	-82	1			1		1	Pass
-sub-20163	BHRC	ses-2	-59	1			1		1	Pass
-sub-20198	BHRC	ses-2	-56	1			1		1	Pass
-sub-20214	BHRC	ses-2	-65	1			1		1	Pass
-sub-20232	BHRC	ses-2	-102	1			1		1	Pass
-sub-20255	BHRC	ses-2	-70	1			1		1	Pass
-sub-20266	BHRC	ses-2	-52	1			1		1	Pass
-sub-20290	BHRC	ses-2	-67	1			1		1	Pass
-sub-20291	BHRC	ses-2	-67	1			1		1	Pass
-sub-20295	BHRC	ses-2	-68	1			1		1	Pass
-sub-20301	BHRC	ses-2	-116	1			1		1	Pass
-sub-20320	BHRC	ses-2	-88	1			1		1	Pass
-sub-20322	BHRC	ses-2	-81	1			1		1	Pass
-sub-20323	BHRC	ses-2	-43	1			1		1	Pass
-sub-20331	BHRC	ses-2	-73	1			1		1	Pass
-sub-20355	BHRC	ses-2	-47	1			1		1	Pass
-sub-20365	BHRC	ses-2	-93	1			1		1	Pass
-sub-20372	BHRC	ses-2	-86	1			1		1	Pass
-sub-20372	BHRC	ses-2	-90	1			1		1	Pass
-sub-20373	BHRC	ses-2	-68	1			1		1	Pass
-sub-20377	BHRC	ses-2	-104	1			1		1	Pass
-sub-20382	BHRC	ses-2	-56	1			1		1	Pass
-sub-20391	BHRC	ses-2	-69	1			1		1	Pass
-sub-20400	BHRC	ses-2	-110	1			1		1	Pass
-sub-20415	BHRC	ses-2	-73	1			1		1	Pass
-sub-20417	BHRC	ses-2	-56	1			1		1	Pass
-sub-20461	BHRC	ses-2	-36	1			1		1	Pass
-sub-20467	BHRC	ses-2	-82	1			1		1	Pass
-sub-20487	BHRC	ses-2	-83	1			1		1	Pass
-sub-20491	BHRC	ses-2	-54	1			1		1	Pass
-sub-20535	BHRC	ses-2	-52	1			1		1	Pass
-sub-20541	BHRC	ses-2	-51	1			1		1	Pass
-sub-20548	BHRC	ses-2	-58	1			1		1	Pass
-sub-20550	BHRC	ses-2	-77	1			1		1	Pass
-sub-20583	BHRC	ses-2	-124	1			1		1	Pass
-sub-20587	BHRC	ses-2	-68	1			1		1	Pass
-sub-20590	BHRC	ses-2	-84	1			1		1	Pass
-sub-20602	BHRC	ses-2	-105	1			1		1	Pass
-sub-20613	BHRC	ses-2	-95	1			1		1	Pass
-sub-20614	BHRC	ses-2	-111	1			1		1	Pass
-sub-20615	BHRC	ses-2	-57	1			1		1	Pass
-sub-20624	BHRC	ses-2	-109	1			1		1	Pass
-sub-20632	BHRC	ses-2	-45	1			1		1	Pass
-sub-20643	BHRC	ses-2	-96	1			1		1	Pass
-sub-20647	BHRC	ses-2	-55	1			1		1	Pass
-sub-20652	BHRC	ses-2	-71	1			1		1	Pass
-sub-20655	BHRC	ses-2	-48	1			1		1	Pass
-sub-20662	BHRC	ses-2	-87	1			1		1	Pass
-sub-20667	BHRC	ses-2	-62	1			1		1	Pass
-sub-20671	BHRC	ses-2	-87	1			1		1	Pass
-sub-20675	BHRC	ses-2	-54	1			1		1	Pass
-sub-20731	BHRC	ses-2	-96	1			1		1	Pass
-sub-20741	BHRC	ses-2	-45	1			1		1	Pass
-sub-20745	BHRC	ses-2	-76	1			1		1	Pass
-sub-20758	BHRC	ses-2	-47	1			1		1	Pass
-sub-20760	BHRC	ses-2	-65	1			1		1	Pass
-sub-20771	BHRC	ses-2	-64	1			1		1	Pass
-sub-20771	BHRC	ses-2	-80	1			1		1	Pass
-sub-20793	BHRC	ses-2	-58	1			1		1	Pass
-sub-20811	BHRC	ses-2	-101	1			1		1	Pass
-sub-20815	BHRC	ses-2	-50	1			1		1	Pass
-sub-20826	BHRC	ses-2	-48	1			1		1	Pass
-sub-20844	BHRC	ses-2	-30	1			1		1	Pass
-sub-20850	BHRC	ses-2	-55	1			1		1	Pass
-sub-20857	BHRC	ses-2	-97	1			1		1	Pass
-sub-20866	BHRC	ses-2	-33	1			1		1	Pass
-sub-20870	BHRC	ses-2	-100	1			1		1	Pass
-sub-20880	BHRC	ses-2	-60	1			1		1	Pass
-sub-20894	BHRC	ses-2	-48	1			1		1	Pass
-sub-20905	BHRC	ses-2	-52	1			1		1	Pass
-sub-20905	BHRC	ses-2	-60	1			1		1	Pass
-sub-20922	BHRC	ses-2	-65	1			1		1	Pass
-sub-20923	BHRC	ses-2	-74	1			1		1	Pass
-sub-20930	BHRC	ses-2	-75	1			1		1	Pass
-sub-20974	BHRC	ses-2	-71	1			1		1	Pass
-sub-20991	BHRC	ses-2	-38	1			1		1	Pass
-sub-21004	BHRC	ses-2	-64	1			1		1	Pass
-sub-21021	BHRC	ses-2	-63	1			1		1	Pass
-sub-21022	BHRC	ses-2	-97	1			1		1	Pass
-sub-21033	BHRC	ses-2	-143	1			1		1	Pass
-sub-21033	BHRC	ses-2	-121	1			1		1	Pass
-sub-21042	BHRC	ses-2	-86	1			1		1	Pass
-sub-21055	BHRC	ses-2	-64	1			1		1	Pass
-sub-21056	BHRC	ses-2	-74	1			1		1	Pass
-sub-21061	BHRC	ses-2	-53	1			1		1	Pass
-sub-21070	BHRC	ses-2	-61	1			1		1	Pass
-sub-21090	BHRC	ses-2	-106	1			1		1	Pass
-sub-21115	BHRC	ses-2	-41	1			1		1	Pass
-sub-21117	BHRC	ses-2	-61	1			1		1	Pass
-sub-21120	BHRC	ses-2	-43	1			1		1	Pass
-sub-21120	BHRC	ses-2	-51	1			1		1	Pass
-sub-21125	BHRC	ses-2	-79	1			1		1	Pass
-sub-21145	BHRC	ses-2	-70	1			1		1	Pass
-sub-21153	BHRC	ses-2	-62	1			1		1	Pass
-sub-21165	BHRC	ses-2	-89	1			1		1	Pass
-sub-21362	BHRC	ses-2	-63	1			1		1	Pass
-sub-21474	BHRC	ses-2	-113	1			1		1	Pass
-sub-21713	BHRC	ses-2	-46	1			1		1	Pass
-sub-21841	BHRC	ses-2	-42	1			1		1	Pass
-sub-10001	BHRC	ses-1	-111		1	1		1	1	Pass
-sub-10617	BHRC	ses-1	-112		1	1		1	1	Pass
-sub-10627	BHRC	ses-1	-71		1	1		1	1	Pass
-sub-10634	BHRC	ses-1	-135		0.75	1		0.75	0.833333333	Artifact
-sub-10637	BHRC	ses-1	-68		1	1		1	1	Pass
-sub-10650	BHRC	ses-1	-157		0	0.5		0.5	0.333333333	Artifact
-sub-10651	BHRC	ses-1	-103		1	1		1	1	Pass
-sub-10657	BHRC	ses-1	-148		1	1		1	1	Pass
-sub-10667	BHRC	ses-1	-47		1	1		1	1	Pass
-sub-10671	BHRC	ses-1	-89		1	1		1	1	Pass
-sub-10675	BHRC	ses-1	-68		1	1		1	1	Pass
-sub-10684	BHRC	ses-1	-123		1	1		1	1	Pass
-sub-10693	BHRC	ses-1	-76		1	1		1	1	Pass
-sub-10693	BHRC	ses-1	-57		1	1		1	1	Pass
-sub-10701	BHRC	ses-1	-59		1	1		1	1	Pass
-sub-10710	BHRC	ses-1	-152		1	1		1	1	Pass
-sub-10744	BHRC	ses-1	-82		1	1		1	1	Pass
-sub-10745	BHRC	ses-1	-137		0.75	0.75		0.5	0.666666667	Artifact
-sub-10749	BHRC	ses-1	-74		1	1		1	1	Pass
-sub-10761	BHRC	ses-1	-77		1	1		1	1	Pass
-sub-10766	BHRC	ses-1	-58		1	1		1	1	Pass
-sub-10773	BHRC	ses-1	-110		0.75	1		1	0.916666667	Artifact
-sub-10787	BHRC	ses-1	-62		1	1		1	1	Pass
-sub-10794	BHRC	ses-1	-38		1	1		1	1	Pass
-sub-10798	BHRC	ses-1	-53		1	1		0.75	0.916666667	Artifact
-sub-10808	BHRC	ses-1	-46		1	1		1	1	Pass
-sub-10814	BHRC	ses-1	-82		1	1		1	1	Pass
-sub-10826	BHRC	ses-1	-83		1	1		1	1	Pass
-sub-10832	BHRC	ses-1	-65		1	1		1	1	Pass
-sub-10845	BHRC	ses-1	-86		1	1		1	1	Pass
-sub-10890	BHRC	ses-1	-105		1	1		1	1	Pass
-sub-10890	BHRC	ses-1	-101		1	1		1	1	Pass
-sub-10917	BHRC	ses-1	-51		1	1		0.75	0.916666667	Artifact
-sub-10928	BHRC	ses-1	-48		1	1		1	1	Pass
-sub-10928	BHRC	ses-1	-40		1	1		1	1	Pass
-sub-10930	BHRC	ses-1	-125		1	1		0.75	0.916666667	Artifact
-sub-10936	BHRC	ses-1	-95		0.75	1		1	0.916666667	Artifact
-sub-10984	BHRC	ses-1	-129		1	1		1	1	Pass
-sub-11003	BHRC	ses-1	-50		1	1		1	1	Pass
-sub-11005	BHRC	ses-1	-56		1	1		1	1	Pass
-sub-11030	BHRC	ses-1	-114		0.75	1		1	0.916666667	Artifact
-sub-11038	BHRC	ses-1	-85		1	1		1	1	Pass
-sub-11065	BHRC	ses-1	-100		1	1		1	1	Pass
-sub-11106	BHRC	ses-1	-198		0.75	1		1	0.916666667	Artifact
-sub-11156	BHRC	ses-1	-104		1	1		1	1	Pass
-sub-11173	BHRC	ses-1	-166		0.75	1		1	0.916666667	Artifact
-sub-11210	BHRC	ses-1	-67		1	1		1	1	Pass
-sub-11455	BHRC	ses-1	-88		1	1		1	1	Pass
-sub-11723	BHRC	ses-1	-78		1	1		1	1	Pass
-sub-20004	BHRC	ses-2	-45		1	1		1	1	Pass
-sub-20004	BHRC	ses-2	-55		1	1		1	1	Pass
-sub-20006	BHRC	ses-2	-52		1	1		1	1	Pass
-sub-20035	BHRC	ses-2	-72		1	1		1	1	Pass
-sub-20043	BHRC	ses-2	-75		1	1		1	1	Pass
-sub-20048	BHRC	ses-2	-86		0.75	1		1	0.916666667	Artifact
-sub-20067	BHRC	ses-2	-79		1	1		1	1	Pass
-sub-20082	BHRC	ses-2	-43		1	1		1	1	Pass
-sub-20092	BHRC	ses-2	-89		1	1		1	1	Pass
-sub-20097	BHRC	ses-2	-63		1	1		1	1	Pass
-sub-20157	BHRC	ses-2	-81		1	1		1	1	Pass
-sub-20172	BHRC	ses-2	-63		1	1		1	1	Pass
-sub-20178	BHRC	ses-2	-86		1	1		1	1	Pass
-sub-20182	BHRC	ses-2	-60		1	1		1	1	Pass
-sub-20182	BHRC	ses-2	-52		1	1		1	1	Pass
-sub-20195	BHRC	ses-2	-118		1	1		1	1	Pass
-sub-20204	BHRC	ses-2	-54		1	1		1	1	Pass
-sub-20212	BHRC	ses-2	-84		1	1		1	1	Pass
-sub-20221	BHRC	ses-2	-63		1	1		1	1	Pass
-sub-20230	BHRC	ses-2	-56		1	1		1	1	Pass
-sub-20237	BHRC	ses-2	-44		1	1		1	1	Pass
-sub-20245	BHRC	ses-2	-88		1	1		1	1	Pass
-sub-20263	BHRC	ses-2	-131		1	1		1	1	Pass
-sub-20263	BHRC	ses-2	-97		1	1		1	1	Pass
-sub-20279	BHRC	ses-2	-78		1	1		1	1	Pass
-sub-20286	BHRC	ses-2	-99		1	1		1	1	Pass
-sub-20296	BHRC	ses-2	-56		1	1		1	1	Pass
-sub-203262	BHRC	ses-2	-32		1	1		1	1	Pass
-sub-20332	BHRC	ses-2	-102		1	1		1	1	Pass
-sub-20338	BHRC	ses-2	-73		0.75	1		1	0.916666667	Artifact
-sub-203432	BHRC	ses-2	-60		1	1		1	1	Pass
-sub-20361	BHRC	ses-2	-59		1	1		1	1	Pass
-sub-20365	BHRC	ses-2	-80		1	1		1	1	Pass
-sub-20369	BHRC	ses-2	-84		0.75	1		0.75	0.833333333	Artifact
-sub-20378	BHRC	ses-2	-64		1	1		1	1	Pass
-sub-20386	BHRC	ses-2	-65		1	1		1	1	Pass
-sub-20388	BHRC	ses-2	-75		1	1		1	1	Pass
-sub-20406	BHRC	ses-2	-66		1	1		1	1	Pass
-sub-20430	BHRC	ses-2	-36		1	1		1	1	Pass
-sub-20442	BHRC	ses-2	-68		1	1		1	1	Pass
-sub-20466	BHRC	ses-2	-117		0.75	1		1	0.916666667	Artifact
-sub-20474	BHRC	ses-2	-58		1	1		1	1	Pass
-sub-20489	BHRC	ses-2	-67		1	1		1	1	Pass
-sub-20494	BHRC	ses-2	-91		1	1		1	1	Pass
-sub-20525	BHRC	ses-2	-81		1	1		1	1	Pass
-sub-20528	BHRC	ses-2	-73		1	1		1	1	Pass
-sub-20530	BHRC	ses-2	-87		1	1		1	1	Pass
-sub-20532	BHRC	ses-2	-75		1	1		1	1	Pass
-sub-20568	BHRC	ses-2	-26		1	1		1	1	Pass
-sub-20573	BHRC	ses-2	-67		1	1		1	1	Pass
-sub-20587	BHRC	ses-2	-72		1	1		1	1	Pass
-sub-20594	BHRC	ses-2	-68		1	1		1	1	Pass
-sub-20616	BHRC	ses-2	-57		1	1		1	1	Pass
-sub-20624	BHRC	ses-2	-98		1	1		1	1	Pass
-sub-20647	BHRC	ses-2	-34		1	1		1	1	Pass
-sub-20654	BHRC	ses-2	-65		1	1		1	1	Pass
-sub-20655	BHRC	ses-2	-49		1	1		1	1	Pass
-sub-20665	BHRC	ses-2	-87		0.75	1		1	0.916666667	Artifact
-sub-20672	BHRC	ses-2	-83		1	1		1	1	Pass
-sub-20683	BHRC	ses-2	-77		1	1		1	1	Pass
-sub-20689	BHRC	ses-2	-55		1	1		1	1	Pass
-sub-20698	BHRC	ses-2	-96		1	1		1	1	Pass
-sub-20714	BHRC	ses-2	-63		1	1		1	1	Pass
-sub-20717	BHRC	ses-2	-106		1	1		1	1	Pass
-sub-20727	BHRC	ses-2	-74		1	1		1	1	Pass
-sub-20737	BHRC	ses-2	-36		1	1		1	1	Pass
-sub-20737	BHRC	ses-2	-40		1	1		1	1	Pass
-sub-20738	BHRC	ses-2	-61		1	1		1	1	Pass
-sub-207452	BHRC	ses-2	-92		1	1		1	1	Pass
-sub-20769	BHRC	ses-2	-127		0.75	1		0.75	0.833333333	Artifact
-sub-20772	BHRC	ses-2	-74		1	1		1	1	Pass
-sub-20800	BHRC	ses-2	-62		1	1		1	1	Pass
-sub-20818	BHRC	ses-2	-47		1	1		1	1	Pass
-sub-20829	BHRC	ses-2	-50		1	1		1	1	Pass
-sub-20833	BHRC	ses-2	-71		1	1		1	1	Pass
-sub-20844	BHRC	ses-2	-18		1	1		1	1	Pass
-sub-20856	BHRC	ses-2	-41		1	1		1	1	Pass
-sub-20875	BHRC	ses-2	-71		1	1		1	1	Pass
-sub-20875	BHRC	ses-2	-44		1	1		1	1	Pass
-sub-20880	BHRC	ses-2	-85		1	1		1	1	Pass
-sub-20901	BHRC	ses-2	-140		1	1		1	1	Pass
-sub-20909	BHRC	ses-2	-109		1	1		1	1	Pass
-sub-20915	BHRC	ses-2	-93		1	1		1	1	Pass
-sub-20916	BHRC	ses-2	-70		1	1		1	1	Pass
-sub-20922	BHRC	ses-2	-76		1	1		1	1	Pass
-sub-20930	BHRC	ses-2	-106		1	1		1	1	Pass
-sub-20934	BHRC	ses-2	-58		1	1		1	1	Pass
-sub-20935	BHRC	ses-2	-95		1	1		1	1	Pass
-sub-20936	BHRC	ses-2	-59		1	1		1	1	Pass
-sub-20939	BHRC	ses-2	-96		1	1		1	1	Pass
-sub-20943	BHRC	ses-2	-72		1	1		1	1	Pass
-sub-20954	BHRC	ses-2	-64		1	1		1	1	Pass
-sub-20962	BHRC	ses-2	-53		1	1		1	1	Pass
-sub-20989	BHRC	ses-2	-64		1	1		1	1	Pass
-sub-21007	BHRC	ses-2	-73		1	1		1	1	Pass
-sub-21022	BHRC	ses-2	-90		1	1		1	1	Pass
-sub-21024	BHRC	ses-2	-67		1	1		1	1	Pass
-sub-21024	BHRC	ses-2	-48		1	1		1	1	Pass
-sub-21043	BHRC	ses-2	-80		0.75	1		1	0.916666667	Artifact
-sub-21053	BHRC	ses-2	-71		0.75	1		1	0.916666667	Artifact
-sub-21065	BHRC	ses-2	-121		1	1		1	1	Pass
-sub-21069	BHRC	ses-2	-59		1	1		1	1	Pass
-sub-21070	BHRC	ses-2	-49		1	1		1	1	Pass
-sub-21074	BHRC	ses-2	-51		1	1		1	1	Pass
-sub-21078	BHRC	ses-2	-70		1	1		1	1	Pass
-sub-21082	BHRC	ses-2	-38		1	1		1	1	Pass
-sub-21084	BHRC	ses-2	-69		1	1		1	1	Pass
-sub-21085	BHRC	ses-2	-66		1	1		1	1	Pass
-sub-21101	BHRC	ses-2	-82		1	1		1	1	Pass
-sub-21319	BHRC	ses-2	-69		1	1		1	1	Pass
-sub-21434	BHRC	ses-2	-60		1	1		1	1	Pass
-sub-21598	BHRC	ses-2	-45		1	1		1	1	Pass
-sub-21714	BHRC	ses-2	-53		1	1		1	1	Pass
-sub-21773	BHRC	ses-2	-48		1	1		1	1	Pass
-sub-21913	BHRC	ses-2	-61		1	1		1	1	Pass
-sub-21927	BHRC	ses-2	-43		1	1		1	1	Pass
-sub-10618	BHRC	ses-1	-241	0.25	0.25	0	0	0	0.1	Artifact
-sub-10624	BHRC	ses-1	-110	1	1	1	0.75	0.5	0.85	Artifact
-sub-10634	BHRC	ses-1	-97	1	1	1	1	1	1	Pass
-sub-10649	BHRC	ses-1	-78	1	1	1	1	1	1	Pass
-sub-10654	BHRC	ses-1	-53	1	1	1	1	1	1	Pass
-sub-10655	BHRC	ses-1	-85	1	1	1	1	1	1	Pass
-sub-10655	BHRC	ses-1	-124	0.75	1	1	0.75	0.75	0.85	Artifact
-sub-10694	BHRC	ses-1	-106	1	1	1	1	1	1	Pass
-sub-10746	BHRC	ses-1	-73	1	1	1	1	1	1	Pass
-sub-10753	BHRC	ses-1	-72	1	1	1	1	1	1	Pass
-sub-10754	BHRC	ses-1	-86	1	1	1	1	1	1	Pass
-sub-10754	BHRC	ses-1	-64	1	1	1	1	1	1	Pass
-sub-10761	BHRC	ses-1	-34	1	1	1	1	1	1	Pass
-sub-10773	BHRC	ses-1	-67	1	1	1	1	1	1	Pass
-sub-10785	BHRC	ses-1	-73	1	1	1	1	1	1	Pass
-sub-10787	BHRC	ses-1	-105	0.75	1	1	0.75	0.75	0.85	Artifact
-sub-10790	BHRC	ses-1	-87	1	1	1	1	1	1	Pass
-sub-10814	BHRC	ses-1	-82	1	1	1	1	1	1	Pass
-sub-10824	BHRC	ses-1	-53	1	1	1	1	1	1	Pass
-sub-10829	BHRC	ses-1	-68	1	1	1	1	1	1	Pass
-sub-10832	BHRC	ses-1	-54	1	1	1	1	1	1	Pass
-sub-10856	BHRC	ses-1	-103	1	1	1	1	1	1	Pass
-sub-10860	BHRC	ses-1	-59	1	1	1	1	1	1	Pass
-sub-10891	BHRC	ses-1	-133	1	1	1	1	1	1	Pass
-sub-10961	BHRC	ses-1	-128	1	1	1	1	1	1	Pass
-sub-10969	BHRC	ses-1	-99	1	1	1	0.75	1	0.95	Artifact
-sub-10970	BHRC	ses-1	-43	1	1	1	1	1	1	Pass
-sub-11004	BHRC	ses-1	-58	1	1	1	1	1	1	Pass
-sub-11063	BHRC	ses-1	-81	1	1	1	0.75	0.75	0.9	Artifact
-sub-11115	BHRC	ses-1	-82	1	1	1	1	1	1	Pass
-sub-11159	BHRC	ses-1	-38	1	1	1	1	1	1	Pass
-sub-11329	BHRC	ses-1	-66	1	1	1	1	1	1	Pass
-sub-11619	BHRC	ses-1	-165	0	0	0.75	0.25	0.5	0.3	Artifact
-sub-20032	BHRC	ses-2	-58	1	1	1	1	1	1	Pass
-sub-20065	BHRC	ses-2	-52	1	1	1	1	1	1	Pass
-sub-20065	BHRC	ses-2	-50	1	1	1	1	1	1	Pass
-sub-20071	BHRC	ses-2	-79	1	1	1	1	1	1	Pass
-sub-20083	BHRC	ses-2	-40	1	1	1	1	1	1	Pass
-sub-20163	BHRC	ses-2	-48	1	1	1	1	1	1	Pass
-sub-20170	BHRC	ses-2	-49	1	1	1	1	1	1	Pass
-sub-20191	BHRC	ses-2	-69	1	1	1	1	1	1	Pass
-sub-20193	BHRC	ses-2	-56	1	1	1	1	1	1	Pass
-sub-20198	BHRC	ses-2	-74	1	1	1	1	1	1	Pass
-sub-20213	BHRC	ses-2	-43	1	1	1	1	1	1	Pass
-sub-20214	BHRC	ses-2	-96	1	1	1	1	1	1	Pass
-sub-20228	BHRC	ses-2	-70	1	1	1	1	1	1	Pass
-sub-20274	BHRC	ses-2	-75	1	1	1	1	1	1	Pass
-sub-20329	BHRC	ses-2	-47	1	1	1	1	1	1	Pass
-sub-20343	BHRC	ses-2	-71	1	1	1	1	1	1	Pass
-sub-20366	BHRC	ses-2	-152	1	1	1	1	1	1	Pass
-sub-20381	BHRC	ses-2	-84	1	1	1	0.75	0.5	0.85	Artifact
-sub-20382	BHRC	ses-2	-61	1	1	1	1	1	1	Pass
-sub-20489	BHRC	ses-2	-45	1	0.75	1	1	1	0.95	Artifact
-sub-20503	BHRC	ses-2	-71	1	1	1	1	1	1	Pass
-sub-20512	BHRC	ses-2	-101	1	1	1	1	1	1	Pass
-sub-20539	BHRC	ses-2	-112	1	1	1	1	1	1	Pass
-sub-20556	BHRC	ses-2	-68	1	1	1	0.75	0.75	0.9	Artifact
-sub-20567	BHRC	ses-2	-65	1	1	1	1	1	1	Pass
-sub-20579	BHRC	ses-2	-63	1	1	1	1	1	1	Pass
-sub-20672	BHRC	ses-2	-51	1	1	1	1	1	1	Pass
-sub-20698	BHRC	ses-2	-87	1	1	1	1	1	1	Pass
-sub-20700	BHRC	ses-2	-36	1	1	1	1	1	1	Pass
-sub-20719	BHRC	ses-2	-62	1	1	1	1	1	1	Pass
-sub-20733	BHRC	ses-2	-83	1	1	1	1	1	1	Pass
-sub-20795	BHRC	ses-2	-89	1	1	1	1	1	1	Pass
-sub-20806	BHRC	ses-2	-26	1	1	1	1	1	1	Pass
-sub-20816	BHRC	ses-2	-77	1	1	1	1	1	1	Pass
-sub-20846	BHRC	ses-2	-92	1	1	1	1	1	1	Pass
-sub-20968	BHRC	ses-2	-63	1	1	1	1	1	1	Pass
-sub-20978	BHRC	ses-2	-90	1	1	1	1	1	1	Pass
-sub-20980	BHRC	ses-2	-139	1	1	1	1	1	1	Pass
-sub-20981	BHRC	ses-2	-60	1	1	1	1	1	1	Pass
-sub-20984	BHRC	ses-2	-57	1	1	1	1	1	1	Pass
-sub-21009	BHRC	ses-2	-120	1	1	1	1	1	1	Pass
-sub-21021	BHRC	ses-2	-67	1	1	1	1	1	1	Pass
-sub-21031	BHRC	ses-2	-56	1	1	1	1	1	1	Pass
-sub-21039	BHRC	ses-2	-74	1	1	1	1	0.75	0.95	Artifact
-sub-21041	BHRC	ses-2	-94	1	1	1	1	1	1	Pass
-sub-21044	BHRC	ses-2	-60	1	1	1	1	1	1	Pass
-sub-21134	BHRC	ses-2	-76	1	1	1	1	1	1	Pass
-sub-21424	BHRC	ses-2	-46	1	0.75	1	1	0.75	0.9	Artifact
-sub-21534	BHRC	ses-2	-116	1	1	1	1	1	1	Pass
-sub-21838	BHRC	ses-2	-65	1	1	1	1	1	1	Pass
-sub-10643	BHRC	ses-1	-130	1	0.75	1	1	1	0.95	Artifact
-sub-10646	BHRC	ses-1	-104	1	1	1	1	1	1	Pass
-sub-10665	BHRC	ses-1	-58	1	1	1	1	1	1	Pass
-sub-10671	BHRC	ses-1	-146	1	1	1	1	1	1	Pass
-sub-10676	BHRC	ses-1	-88	1	0.75	1	1	1	0.95	Artifact
-sub-10680	BHRC	ses-1	-108	1	1	1	1	1	1	Pass
-sub-10687	BHRC	ses-1	-78	1	1	1	1	1	1	Pass
-sub-10698	BHRC	ses-1	-106	1	1	1	1	1	1	Pass
-sub-10700	BHRC	ses-1	-137	1	1	1	1	1	1	Pass
-sub-10703	BHRC	ses-1	-63	1	1	1	1	1	1	Pass
-sub-10785	BHRC	ses-1	-62	1	1	1	1	1	1	Pass
-sub-10791	BHRC	ses-1	-80	1	1	1	1	1	1	Pass
-sub-10794	BHRC	ses-1	-44	1	1	1	1	1	1	Pass
-sub-10806	BHRC	ses-1	-123	1	1	1	1	1	1	Pass
-sub-10829	BHRC	ses-1	-67	1	1	1	1	1	1	Pass
-sub-10830	BHRC	ses-1	-73	1	1	1	1	1	1	Pass
-sub-10841	BHRC	ses-1	-51	1	1	1	1	1	1	Pass
-sub-10869	BHRC	ses-1	-74	1	1	1	1	1	1	Pass
-sub-10970	BHRC	ses-1	-72	1	1	1	1	1	1	Pass
-sub-10990	BHRC	ses-1	-86	1	1	1	1	1	1	Pass
-sub-11038	BHRC	ses-1	-127	1	1	1	1	1	1	Pass
-sub-11054	BHRC	ses-1	-156	1	1	1	1	1	1	Pass
-sub-11115	BHRC	ses-1	-83	1	1	1	1	1	1	Pass
-sub-11122	BHRC	ses-1	-85	1	1	1	1	1	1	Pass
-sub-11149	BHRC	ses-1	-114	1	1	1	1	1	1	Pass
-sub-11150	BHRC	ses-1	-68	1	1	1	1	1	1	Pass
-sub-11165	BHRC	ses-1	-76	1	1	1	1	1	1	Pass
-sub-11170	BHRC	ses-1	-102	1	1	1	1	1	1	Pass
-sub-11830	BHRC	ses-1	-59	1	1	1	1	1	1	Pass
-sub-20041	BHRC	ses-2	-53	1	1	1	1	1	1	Pass
-sub-20054	BHRC	ses-2	-64	1	1	1	1	1	1	Pass
-sub-20095	BHRC	ses-2	-91	1	1	1	1	1	1	Pass
-sub-20171	BHRC	ses-2	-100	1	1	1	1	1	1	Pass
-sub-20284	BHRC	ses-2	-45	1	1	1	1	1	1	Pass
-sub-20293	BHRC	ses-2	-72	1	1	1	1	1	1	Pass
-sub-20302	BHRC	ses-2	-52	1	1	1	1	1	1	Pass
-sub-20303	BHRC	ses-2	-68	1	0.75	1	1	1	0.95	Artifact
-sub-20324	BHRC	ses-2	-75	1	1	1	1	1	1	Pass
-sub-20343	BHRC	ses-2	-118	1	1	1	1	1	1	Pass
-sub-20386	BHRC	ses-2	-56	1	1	1	1	1	1	Pass
-sub-20396	BHRC	ses-2	-81	1	1	1	1	1	1	Pass
-sub-20442	BHRC	ses-2	-66	1	1	1	1	1	1	Pass
-sub-20446	BHRC	ses-2	-74	1	1	1	1	1	1	Pass
-sub-20451	BHRC	ses-2	-111	1	1	1	1	1	1	Pass
-sub-20466	BHRC	ses-2	-61	1	1	1	1	1	1	Pass
-sub-20502	BHRC	ses-2	-71	1	1	1	1	1	1	Pass
-sub-20504	BHRC	ses-2	-49	1	1	1	1	1	1	Pass
-sub-20505	BHRC	ses-2	-41	1	1	1	1	1	1	Pass
-sub-20526	BHRC	ses-2	-82	1	1	1	1	1	1	Pass
-sub-20544	BHRC	ses-2	-40	1	1	1	1	1	1	Pass
-sub-20581	BHRC	ses-2	-54	1	1	1	1	1	1	Pass
-sub-20584	BHRC	ses-2	-96	1	1	1	1	1	1	Pass
-sub-20643	BHRC	ses-2	-71	1	1	1	1	1	1	Pass
-sub-20653	BHRC	ses-2	-57	1	1	1	1	1	1	Pass
-sub-20654	BHRC	ses-2	-47	1	0.75	1	1	1	0.95	Artifact
-sub-20674	BHRC	ses-2	-48	1	1	1	1	1	1	Pass
-sub-20693	BHRC	ses-2	-89	1	1	1	1	1	1	Pass
-sub-20699	BHRC	ses-2	-37	1	1	1	1	1	1	Pass
-sub-20706	BHRC	ses-2	-59	1	1	1	1	1	1	Pass
-sub-20726	BHRC	ses-2	-95	1	1	1	1	1	1	Pass
-sub-20738	BHRC	ses-2	-79	1	1	1	1	1	1	Pass
-sub-20767	BHRC	ses-2	-62	1	1	1	1	1	1	Pass
-sub-20773	BHRC	ses-2	-50	1	1	1	1	1	1	Pass
-sub-20837	BHRC	ses-2	-58	1	1	1	1	1	1	Pass
-sub-20841	BHRC	ses-2	-43	1	1	1	1	1	1	Pass
-sub-20846	BHRC	ses-2	-84	1	1	1	1	1	1	Pass
-sub-20871	BHRC	ses-2	-60	1	1	1	1	1	1	Pass
-sub-20871	BHRC	ses-2	-35	1	1	1	1	1	1	Pass
-sub-20878	BHRC	ses-2	-31	1	1	1	1	1	1	Pass
-sub-20887	BHRC	ses-2	-77	1	1	1	1	1	1	Pass
-sub-20927	BHRC	ses-2	-69	1	1	1	1	1	1	Pass
-sub-20939	BHRC	ses-2	-97	1	1	1	1	1	1	Pass
-sub-20943	BHRC	ses-2	-64	1	1	1	1	1	1	Pass
-sub-20951	BHRC	ses-2	-87	1	1	1	1	1	1	Pass
-sub-21011	BHRC	ses-2	-55	1	1	1	1	1	1	Pass
-sub-21039	BHRC	ses-2	-47	1	1	1	1	1	1	Pass
-sub-21052	BHRC	ses-2	-93	1	1	1	1	1	1	Pass
-sub-21074	BHRC	ses-2	-67	1	1	1	1	1	1	Pass
-sub-21077	BHRC	ses-2	-70	1	1	1	1	1	1	Pass
-sub-21090	BHRC	ses-2	-65	1	1	1	1	1	1	Pass
-sub-21093	BHRC	ses-2	-85	1	1	1	1	0.75	0.95	Artifact
-sub-21272	BHRC	ses-2	-188	1	0.25	0.5	0.25	0	0.4	Artifact
+sub-10618_ses-1	BHRC	BHRC-1	-144	1	0.75				0.875	Artifact
+sub-10627_ses-2	BHRC	BHRC-1	-58	0.75	1				0.875	Artifact
+sub-10631_ses-1	BHRC	BHRC-1	-101	1	1				1	Pass
+sub-10631_ses-2	BHRC	BHRC-1	-65	1	1				1	Pass
+sub-10632_ses-2	BHRC	BHRC-1	-70	1	1				1	Pass
+sub-10646_ses-1	BHRC	BHRC-1	-118	1	1				1	Pass
+sub-10648_ses-1	BHRC	BHRC-1	-106	1	0.75				0.875	Artifact
+sub-10650_ses-2	BHRC	BHRC-1	-69	1	1				1	Pass
+sub-10651_ses-2	BHRC	BHRC-1	-35	1	1				1	Pass
+sub-10659_ses-1	BHRC	BHRC-1	-67	1	1				1	Pass
+sub-10665_ses-1	BHRC	BHRC-1	-52	1	1				1	Pass
+sub-10683_ses-1	BHRC	BHRC-1	-90	1	1				1	Pass
+sub-10683_ses-2	BHRC	BHRC-1	-85	1	1				1	Pass
+sub-10684_ses-2	BHRC	BHRC-1	-133	1	1				1	Pass
+sub-10685_ses-2	BHRC	BHRC-1	-100	1	0.75				0.875	Artifact
+sub-10701_ses-2	BHRC	BHRC-1	-63	1	1				1	Pass
+sub-10710_ses-1	BHRC	BHRC-1	-126	1	1				1	Pass
+sub-10718_ses-2	BHRC	BHRC-1	-38	1	1				1	Pass
+sub-10772_ses-1	BHRC	BHRC-1	-53	1	1				1	Pass
+sub-10792_ses-1	BHRC	BHRC-1	-156	0.75	0.75				0.75	Artifact
+sub-10798_ses-2	BHRC	BHRC-1	-70	1	1				1	Pass
+sub-10800_ses-1	BHRC	BHRC-1	-88	1	1				1	Pass
+sub-10808_ses-1	BHRC	BHRC-1	-75	1	1				1	Pass
+sub-10819_ses-1	BHRC	BHRC-1	-124	0.75	0.75				0.75	Artifact
+sub-10821_ses-1	BHRC	BHRC-1	-96	1	1				1	Pass
+sub-10824_ses-2	BHRC	BHRC-1	-60	1	1				1	Pass
+sub-10825_ses-1	BHRC	BHRC-1	-58	1	1				1	Pass
+sub-10825_ses-2	BHRC	BHRC-1	-46	1	1				1	Pass
+sub-10841_ses-2	BHRC	BHRC-1	-24	1	1				1	Pass
+sub-10849_ses-1	BHRC	BHRC-1	-176	1	1				1	Pass
+sub-10853_ses-2	BHRC	BHRC-1	-95	1	1				1	Pass
+sub-10869_ses-2	BHRC	BHRC-1	-68	1	1				1	Pass
+sub-10873_ses-1	BHRC	BHRC-1	-79	1	1				1	Pass
+sub-10917_ses-1	BHRC	BHRC-1	-54	1	1				1	Pass
+sub-10921_ses-1	BHRC	BHRC-1	-91	1	1				1	Pass
+sub-10934_ses-1	BHRC	BHRC-1	-122	1	1				1	Pass
+sub-10961_ses-2	BHRC	BHRC-1	-74	1	1				1	Pass
+sub-10973_ses-1	BHRC	BHRC-1	-137	1	1				1	Pass
+sub-10987_ses-1	BHRC	BHRC-1	-67	1	1				1	Pass
+sub-11021_ses-1	BHRC	BHRC-1	-98	1	1				1	Pass
+sub-11044_ses-1	BHRC	BHRC-1	-75	1	1				1	Pass
+sub-11122_ses-2	BHRC	BHRC-1	-48	1	1				1	Pass
+sub-11144_ses-1	BHRC	BHRC-1	-139	1	1				1	Pass
+sub-11144_ses-2	BHRC	BHRC-1	-106	1	1				1	Pass
+sub-11160_ses-1	BHRC	BHRC-1	-59	1	1				1	Pass
+sub-11161_ses-1	BHRC	BHRC-1	-64	1	1				1	Pass
+sub-11170_ses-1	BHRC	BHRC-1	-128	1	1				1	Pass
+sub-11197_ses-1	BHRC	BHRC-1	-71	1	1				1	Pass
+sub-11207_ses-2	BHRC	BHRC-1	-62	1	1				1	Pass
+sub-11210_ses-2	BHRC	BHRC-1	-48	1	1				1	Pass
+sub-11227_ses-2	BHRC	BHRC-1	-68	1	1				1	Pass
+sub-11276_ses-3	BHRC	BHRC-1	-130	0.5	0.25				0.375	Artifact
+sub-11325_ses-2	BHRC	BHRC-1	-61	1	1				1	Pass
+sub-11477_ses-2	BHRC	BHRC-1	-41	1	1				1	Pass
+sub-11756_ses-2	BHRC	BHRC-1	-108	1	1				1	Pass
+sub-11914_ses-2	BHRC	BHRC-1	-72	1	1				1	Pass
+sub-20013_ses-1	BHRC	BHRC-2	-109	1	1				1	Pass
+sub-20043_ses-1	BHRC	BHRC-2	-69	1	1				1	Pass
+sub-20050_ses-1	BHRC	BHRC-2	-45	1	1				1	Pass
+sub-20076_ses-2	BHRC	BHRC-2	-58	1	1				1	Pass
+sub-20080_ses-1	BHRC	BHRC-2	-44	1	1				1	Pass
+sub-20080_ses-2	BHRC	BHRC-2	-43	1	1				1	Pass
+sub-20096_ses-2	BHRC	BHRC-2	-64	1	1				1	Pass
+sub-20130_ses-1	BHRC	BHRC-2	-81	1	1				1	Pass
+sub-20130_ses-2	BHRC	BHRC-2	-84	1	1				1	Pass
+sub-20157_ses-1	BHRC	BHRC-2	-96	1	1				1	Pass
+sub-20160_ses-1	BHRC	BHRC-2	-83	1	1				1	Pass
+sub-20161_ses-1	BHRC	BHRC-2	-81	1	0.5				0.75	Artifact
+sub-20208_ses-1	BHRC	BHRC-2	-50	1	1				1	Pass
+sub-20215_ses-2	BHRC	BHRC-2	-59	1	1				1	Pass
+sub-20222_ses-1	BHRC	BHRC-2	-55	1	1				1	Pass
+sub-20228_ses-1	BHRC	BHRC-2	-76	1	1				1	Pass
+sub-20231_ses-2	BHRC	BHRC-2	-82	1	1				1	Pass
+sub-20245_ses-2	BHRC	BHRC-2	-73	1	0.75				0.875	Artifact
+sub-20271_ses-1	BHRC	BHRC-2	-54	1	1				1	Pass
+sub-20279_ses-2	BHRC	BHRC-2	-53	1	1				1	Pass
+sub-20292_ses-1	BHRC	BHRC-2	-120	1	1				1	Pass
+sub-20294_ses-1	BHRC	BHRC-2	-104	1	1				1	Pass
+sub-20295_ses-2	BHRC	BHRC-2	-93	1	1				1	Pass
+sub-20302_ses-2	BHRC	BHRC-2	-51	1	1				1	Pass
+sub-20311_ses-1	BHRC	BHRC-2	-74	1	0.75				0.875	Artifact
+sub-20312_ses-1	BHRC	BHRC-2	-102	1	1				1	Pass
+sub-20326_ses-1	BHRC	BHRC-2	-37	1	1				1	Pass
+sub-20332_ses-2	BHRC	BHRC-2	-94	1	1				1	Pass
+sub-20338_ses-2	BHRC	BHRC-2	-52	1	1				1	Pass
+sub-20350_ses-1	BHRC	BHRC-2	-92	1	1				1	Pass
+sub-20384_ses-3	BHRC	BHRC-2	-57	1	1				1	Pass
+sub-20400_ses-1	BHRC	BHRC-2	-97	1	1				1	Pass
+sub-20409_ses-2	BHRC	BHRC-2	-89	1	1				1	Pass
+sub-20414_ses-1	BHRC	BHRC-2	-56	1	1				1	Pass
+sub-20422_ses-1	BHRC	BHRC-2	-64	1	1				1	Pass
+sub-30000_ses-2	BHRC	BHRC-2	-52	1	1				1	Pass
+sub-20445_ses-1	BHRC	BHRC-2	-110	1	1				1	Pass
+sub-20446_ses-1	BHRC	BHRC-2	-89	1	1				1	Pass
+sub-20453_ses-1	BHRC	BHRC-2	-71	1	1				1	Pass
+sub-20456_ses-2	BHRC	BHRC-2	-87	1	1				1	Pass
+sub-20461_ses-1	BHRC	BHRC-2	-31	1	1				1	Pass
+sub-20469_ses-1	BHRC	BHRC-2	-84	1	1				1	Pass
+sub-20482_ses-2	BHRC	BHRC-2	-86	1	1				1	Pass
+sub-20492_ses-1	BHRC	BHRC-2	-150	1	0.75				0.875	Artifact
+sub-20505_ses-1	BHRC	BHRC-2	-62	1	1				1	Pass
+sub-20512_ses-2	BHRC	BHRC-2	-67	1	1				1	Pass
+sub-20514_ses-2	BHRC	BHRC-2	-43	1	1				1	Pass
+sub-20529_ses-2	BHRC	BHRC-2	-47	1	1				1	Pass
+sub-20530_ses-2	BHRC	BHRC-2	-116	1	0.75				0.875	Artifact
+sub-20544_ses-1	BHRC	BHRC-2	-47	1	1				1	Pass
+sub-20550_ses-1	BHRC	BHRC-2	-61	0.75	1				0.875	Artifact
+sub-20577_ses-1	BHRC	BHRC-2	-82	1	1				1	Pass
+sub-20588_ses-1	BHRC	BHRC-2	-62	1	1				1	Pass
+sub-20590_ses-1	BHRC	BHRC-2	-60	1	1				1	Pass
+sub-20605_ses-1	BHRC	BHRC-2	-45	1	1				1	Pass
+sub-20605_ses-2	BHRC	BHRC-2	-49	1	1				1	Pass
+sub-20614_ses-2	BHRC	BHRC-2	-59	1	1				1	Pass
+sub-20620_ses-2	BHRC	BHRC-2	-47	1	1				1	Pass
+sub-20625_ses-1	BHRC	BHRC-2	-80	1	1				1	Pass
+sub-20626_ses-2	BHRC	BHRC-2	-71	1	1				1	Pass
+sub-20636_ses-3	BHRC	BHRC-2	-33	1	1				1	Pass
+sub-20640_ses-1	BHRC	BHRC-2	-85	1	1				1	Pass
+sub-20640_ses-2	BHRC	BHRC-2	-77	1	1				1	Pass
+sub-20648_ses-2	BHRC	BHRC-2	-222	0	0				0	Fail
+sub-20699_ses-1	BHRC	BHRC-2	-36	1	1				1	Pass
+sub-20714_ses-1	BHRC	BHRC-2	-74	1	1				1	Pass
+sub-20719_ses-1	BHRC	BHRC-2	-63	1	1				1	Pass
+sub-20725_ses-1	BHRC	BHRC-2	-70	1	1				1	Pass
+sub-20754_ses-1	BHRC	BHRC-2	-65	1	1				1	Pass
+sub-20760_ses-1	BHRC	BHRC-2	-75	1	1				1	Pass
+sub-20765_ses-1	BHRC	BHRC-2	-73	1	1				1	Pass
+sub-20780_ses-1	BHRC	BHRC-2	-58	1	1				1	Pass
+sub-20783_ses-2	BHRC	BHRC-2	-42	1	1				1	Pass
+sub-20800_ses-1	BHRC	BHRC-2	-87	1	1				1	Pass
+sub-20803_ses-1	BHRC	BHRC-2	-78	1	1				1	Pass
+sub-20839_ses-1	BHRC	BHRC-2	-66	1	1				1	Pass
+sub-20839_ses-2	BHRC	BHRC-2	-87	1	1				1	Pass
+sub-20852_ses-1	BHRC	BHRC-2	-78	1	1				1	Pass
+sub-20860_ses-2	BHRC	BHRC-2	-84	1	1				1	Pass
+sub-20877_ses-2	BHRC	BHRC-2	-65	1	0.75				0.875	Artifact
+sub-20879_ses-3	BHRC	BHRC-2	-82	1	1				1	Pass
+sub-20882_ses-2	BHRC	BHRC-2	-40	1	1				1	Pass
+sub-20909_ses-1	BHRC	BHRC-2	-79	1	1				1	Pass
+sub-20916_ses-1	BHRC	BHRC-2	-65	1	1				1	Pass
+sub-20948_ses-1	BHRC	BHRC-2	-51	1	1				1	Pass
+sub-20963_ses-2	BHRC	BHRC-2	-73	1	1				1	Pass
+sub-20965_ses-1	BHRC	BHRC-2	-77	1	1				1	Pass
+sub-20965_ses-2	BHRC	BHRC-2	-102	1	1				1	Pass
+sub-20982_ses-1	BHRC	BHRC-2	-48	1	1				1	Pass
+sub-20982_ses-2	BHRC	BHRC-2	-56	1	1				1	Pass
+sub-20985_ses-1	BHRC	BHRC-2	-72	1	1				1	Pass
+sub-20985_ses-2	BHRC	BHRC-2	-113	1	1				1	Pass
+sub-21004_ses-2	BHRC	BHRC-2	-57	1	1				1	Pass
+sub-21009_ses-2	BHRC	BHRC-2	-97	1	1				1	Pass
+sub-21041_ses-2	BHRC	BHRC-2	-112	1	1				1	Pass
+sub-21055_ses-2	BHRC	BHRC-2	-68	1	1				1	Pass
+sub-21059_ses-2	BHRC	BHRC-2	-67	1	1				1	Pass
+sub-21075_ses-1	BHRC	BHRC-2	-60	1	1				1	Pass
+sub-21078_ses-1	BHRC	BHRC-2	-68	1	1				1	Pass
+sub-21083_ses-2	BHRC	BHRC-2	-74	1	1				1	Pass
+sub-21106_ses-1	BHRC	BHRC-2	-83	1	1				1	Pass
+sub-21110_ses-1	BHRC	BHRC-2	-56	1	1				1	Pass
+sub-21133_ses-2	BHRC	BHRC-2	-39	1	1				1	Pass
+sub-21155_ses-1	BHRC	BHRC-2	-164	1	1				1	Pass
+sub-21155_ses-2	BHRC	BHRC-2	-105	1	0.75				0.875	Artifact
+sub-21171_ses-1	BHRC	BHRC-2	-72	1	1				1	Pass
+sub-21243_ses-2	BHRC	BHRC-2	-50	1	1				1	Pass
+sub-21583_ses-2	BHRC	BHRC-2	-63	1	0.75				0.875	Artifact
+sub-21755_ses-2	BHRC	BHRC-2	-86	1	1				1	Pass
+sub-10612_ses-1	BHRC	BHRC-1	-132			0.5	0.75	0.5	0.583333333	Artifact
+sub-10615_ses-2	BHRC	BHRC-1	-65			1	1	1	1	Pass
+sub-10620_ses-1	BHRC	BHRC-1	-97			1	1	1	1	Pass
+sub-10621_ses-1	BHRC	BHRC-1	-43			1	1	1	1	Pass
+sub-10622_ses-1	BHRC	BHRC-1	-149			1	1	1	1	Pass
+sub-10628_ses-2	BHRC	BHRC-1	-66			1	1	1	1	Pass
+sub-10648_ses-2	BHRC	BHRC-1	-111			0.75	1	0.75	0.833333333	Artifact
+sub-10662_ses-1	BHRC	BHRC-1	-138			1	1	1	1	Pass
+sub-10662_ses-2	BHRC	BHRC-1	-115			1	1	1	1	Pass
+sub-10667_ses-1	BHRC	BHRC-1	-200			1	0.5	0.75	0.75	Artifact
+sub-10675_ses-2	BHRC	BHRC-1	-49			1	1	1	1	Pass
+sub-10685_ses-1	BHRC	BHRC-1	-93			1	1	1	1	Pass
+sub-10700_ses-1	BHRC	BHRC-1	-121			1	1	1	1	Pass
+sub-10703_ses-1	BHRC	BHRC-1	-71			1	1	1	1	Pass
+sub-10718_ses-1	BHRC	BHRC-1	-46			1	1	1	1	Pass
+sub-10744_ses-1	BHRC	BHRC-1	-106			1	1	1	1	Pass
+sub-10746_ses-1	BHRC	BHRC-1	-79			1	1	1	1	Pass
+sub-10747_ses-1	BHRC	BHRC-1	-76			1	1	1	1	Pass
+sub-10758_ses-1	BHRC	BHRC-1	-142			1	1	1	1	Pass
+sub-10763_ses-1	BHRC	BHRC-1	-80			1	1	1	1	Pass
+sub-10772_ses-2	BHRC	BHRC-1	-45			1	1	1	1	Pass
+sub-10779_ses-1	BHRC	BHRC-1	-129			1	1	1	1	Pass
+sub-10782_ses-1	BHRC	BHRC-1	-82			1	1	1	1	Pass
+sub-10786_ses-1	BHRC	BHRC-1	-69			1	1	1	1	Pass
+sub-10791_ses-2	BHRC	BHRC-1	-53			1	1	1	1	Pass
+sub-10826_ses-1	BHRC	BHRC-1	-87			1	1	1	1	Pass
+sub-10830_ses-1	BHRC	BHRC-1	-60			1	1	1	1	Pass
+sub-10860_ses-2	BHRC	BHRC-1	-37			1	1	1	1	Pass
+sub-10893_ses-1	BHRC	BHRC-1	-154			1	1	1	1	Pass
+sub-10925_ses-1	BHRC	BHRC-1	-105			1	1	1	1	Pass
+sub-10963_ses-1	BHRC	BHRC-1	-59			1	1	1	1	Pass
+sub-10963_ses-2	BHRC	BHRC-1	-68			1	1	1	1	Pass
+sub-10973_ses-2	BHRC	BHRC-1	-109			1	1	1	1	Pass
+sub-10979_ses-1	BHRC	BHRC-1	-137			1	1	1	1	Pass
+sub-10979_ses-2	BHRC	BHRC-1	-117			1	1	1	1	Pass
+sub-10981_ses-2	BHRC	BHRC-1	-125			1	1	0.5	0.833333333	Artifact
+sub-10990_ses-1	BHRC	BHRC-1	-82			1	1	1	1	Pass
+sub-11004_ses-1	BHRC	BHRC-1	-70			1	1	1	1	Pass
+sub-11018_ses-1	BHRC	BHRC-1	-56			1	1	1	1	Pass
+sub-11058_ses-1	BHRC	BHRC-1	-119			1	1	1	1	Pass
+sub-11058_ses-2	BHRC	BHRC-1	-88			1	1	1	1	Pass
+sub-11133_ses-1	BHRC	BHRC-1	-67			1	1	0.5	0.833333333	Artifact
+sub-11149_ses-2	BHRC	BHRC-1	-102			1	1	1	1	Pass
+sub-11156_ses-1	BHRC	BHRC-1	-170			1	1	1	1	Pass
+sub-11159_ses-1	BHRC	BHRC-1	-47			1	1	1	1	Pass
+sub-11161_ses-2	BHRC	BHRC-1	-61			1	1	1	1	Pass
+sub-11171_ses-1	BHRC	BHRC-1	-72			1	1	1	1	Pass
+sub-11207_ses-1	BHRC	BHRC-1	-50			1	1	1	1	Pass
+sub-11843_ses-2	BHRC	BHRC-1	-69			1	1	1	1	Pass
+sub-20008_ses-2	BHRC	BHRC-2	-68			1	1	0.5	0.833333333	Artifact
+sub-20016_ses-2	BHRC	BHRC-2	-38			1	1	1	1	Pass
+sub-20018_ses-2	BHRC	BHRC-2	-73			1	1	1	1	Pass
+sub-20035_ses-1	BHRC	BHRC-2	-59			1	1	1	1	Pass
+sub-20040_ses-1	BHRC	BHRC-2	-123			1	1	1	1	Pass
+sub-20041_ses-2	BHRC	BHRC-2	-62			1	1	1	1	Pass
+sub-20062_ses-1	BHRC	BHRC-2	-74			1	1	1	1	Pass
+sub-20072_ses-2	BHRC	BHRC-2	-40			1	1	1	1	Pass
+sub-20073_ses-2	BHRC	BHRC-2	-58			1	1	1	1	Pass
+sub-20085_ses-1	BHRC	BHRC-2	-74			1	1	1	1	Pass
+sub-20091_ses-2	BHRC	BHRC-2	-86			1	1	1	1	Pass
+sub-20095_ses-2	BHRC	BHRC-2	-87			1	1	1	1	Pass
+sub-20097_ses-1	BHRC	BHRC-2	-70			1	1	0.5	0.833333333	Artifact
+sub-20099_ses-1	BHRC	BHRC-2	-48			1	1	1	1	Pass
+sub-20139_ses-1	BHRC	BHRC-2	-88			1	1	1	1	Pass
+sub-20146_ses-1	BHRC	BHRC-2	-92			1	1	1	1	Pass
+sub-20146_ses-2	BHRC	BHRC-2	-58			1	1	1	1	Pass
+sub-20149_ses-2	BHRC	BHRC-2	-56			1	1	1	1	Pass
+sub-20150_ses-1	BHRC	BHRC-2	-85			1	1	1	1	Pass
+sub-20150_ses-2	BHRC	BHRC-2	-96			1	1	1	1	Pass
+sub-20168_ses-1	BHRC	BHRC-2	-27			1	1	1	1	Pass
+sub-20168_ses-2	BHRC	BHRC-2	-21			1	1	0.75	0.916666667	Artifact
+sub-20170_ses-1	BHRC	BHRC-2	-85			1	1	1	1	Pass
+sub-20174_ses-3	BHRC	BHRC-2	-52			1	1	1	1	Pass
+sub-20184_ses-2	BHRC	BHRC-2	-75			1	1	1	1	Pass
+sub-20215_ses-1	BHRC	BHRC-2	-63			1	1	1	1	Pass
+sub-20230_ses-1	BHRC	BHRC-2	-59			1	1	0.75	0.916666667	Artifact
+sub-20231_ses-1	BHRC	BHRC-2	-81			1	1	1	1	Pass
+sub-20270_ses-2	BHRC	BHRC-2	-105			1	1	0.75	0.916666667	Artifact
+sub-20284_ses-1	BHRC	BHRC-2	-68			1	1	0.75	0.916666667	Artifact
+sub-20293_ses-2	BHRC	BHRC-2	-65			1	1	1	1	Pass
+sub-20296_ses-2	BHRC	BHRC-2	-47			1	1	1	1	Pass
+sub-20298_ses-1	BHRC	BHRC-2	-78			1	1	1	1	Pass
+sub-20306_ses-1	BHRC	BHRC-2	-72			1	1	1	1	Pass
+sub-20311_ses-2	BHRC	BHRC-2	-81			1	0.75	0.75	0.833333333	Artifact
+sub-20322_ses-2	BHRC	BHRC-2	-64			1	1	1	1	Pass
+sub-20329_ses-1	BHRC	BHRC-2	-64			1	1	1	1	Pass
+sub-20336_ses-1	BHRC	BHRC-2	-71			1	1	1	1	Pass
+sub-20336_ses-2	BHRC	BHRC-2	-71			1	1	1	1	Pass
+sub-20340_ses-1	BHRC	BHRC-2	-62			1	1	1	1	Pass
+sub-20360_ses-1	BHRC	BHRC-2	-84			1	1	1	1	Pass
+sub-20361_ses-2	BHRC	BHRC-2	-95			1	1	0.75	0.916666667	Artifact
+sub-20366_ses-2	BHRC	BHRC-2	-84			1	1	1	1	Pass
+sub-20369_ses-2	BHRC	BHRC-2	-51			1	1	1	1	Pass
+sub-20378_ses-1	BHRC	BHRC-2	-71			1	1	1	1	Pass
+sub-20380_ses-1	BHRC	BHRC-2	-58			1	1	1	1	Pass
+sub-20430_ses-1	BHRC	BHRC-2	-43			1	1	1	1	Pass
+sub-20431_ses-1	BHRC	BHRC-2	-78			1	1	1	1	Pass
+sub-20437_ses-1	BHRC	BHRC-2	-65			1	1	1	1	Pass
+sub-20453_ses-2	BHRC	BHRC-2	-90			1	1	1	1	Pass
+sub-20460_ses-1	BHRC	BHRC-2	-80			1	1	1	1	Pass
+sub-20467_ses-1	BHRC	BHRC-2	-50			1	1	1	1	Pass
+sub-20474_ses-2	BHRC	BHRC-2	-73			1	1	1	1	Pass
+sub-20480_ses-1	BHRC	BHRC-2	-99			1	1	0.75	0.916666667	Artifact
+sub-20487_ses-2	BHRC	BHRC-2	-63			1	1	1	1	Pass
+sub-20519_ses-1	BHRC	BHRC-2	-113			1	1	1	1	Pass
+sub-20528_ses-1	BHRC	BHRC-2	-79			1	1	0.75	0.916666667	Artifact
+sub-20571_ses-1	BHRC	BHRC-2	-38			1	1	1	1	Pass
+sub-20577_ses-2	BHRC	BHRC-2	-54			1	1	1	1	Pass
+sub-20580_ses-2	BHRC	BHRC-2	-93			1	1	0.75	0.916666667	Artifact
+sub-20597_ses-1	BHRC	BHRC-2	-33			1	1	1	1	Pass
+sub-20604_ses-1	BHRC	BHRC-2	-61			1	1	1	1	Pass
+sub-20611_ses-2	BHRC	BHRC-2	-67			1	1	1	1	Pass
+sub-20621_ses-1	BHRC	BHRC-2	-127			1	1	0.5	0.833333333	Artifact
+sub-20627_ses-1	BHRC	BHRC-2	-86			1	1	1	1	Pass
+sub-20639_ses-1	BHRC	BHRC-2	-61			1	1	1	1	Pass
+sub-20639_ses-2	BHRC	BHRC-2	-57			1	1	1	1	Pass
+sub-20648_ses-1	BHRC	BHRC-2	-83			1	1	1	1	Pass
+sub-20652_ses-1	BHRC	BHRC-2	-104			1	1	1	1	Pass
+sub-20665_ses-2	BHRC	BHRC-2	-67			1	1	1	1	Pass
+sub-20678_ses-1	BHRC	BHRC-2	-67			1	1	1	1	Pass
+sub-20678_ses-2	BHRC	BHRC-2	-68			1	1	1	1	Pass
+sub-20688_ses-1	BHRC	BHRC-2	-68			1	1	1	1	Pass
+sub-20688_ses-2	BHRC	BHRC-2	-48			1	1	1	1	Pass
+sub-20689_ses-1	BHRC	BHRC-2	-56			1	1	1	1	Pass
+sub-20706_ses-2	BHRC	BHRC-2	-75			1	1	1	1	Pass
+sub-20731_ses-2	BHRC	BHRC-2	-55			1	1	1	1	Pass
+sub-20744_ses-1	BHRC	BHRC-2	-96			1	1	1	1	Pass
+sub-20746_ses-1	BHRC	BHRC-2	-86			1	1	1	1	Pass
+sub-20765_ses-2	BHRC	BHRC-2	-74			1	1	1	1	Pass
+sub-20773_ses-2	BHRC	BHRC-2	-63			1	1	1	1	Pass
+sub-20799_ses-1	BHRC	BHRC-2	-53			1	1	0.75	0.916666667	Artifact
+sub-20806_ses-1	BHRC	BHRC-2	-77			1	1	1	1	Pass
+sub-20815_ses-1	BHRC	BHRC-2	-59			1	1	1	1	Pass
+sub-20826_ses-2	BHRC	BHRC-2	-42			1	1	0.75	0.916666667	Artifact
+sub-20840_ses-1	BHRC	BHRC-2	-57			1	1	1	1	Pass
+sub-20848_ses-2	BHRC	BHRC-2	-50			1	1	0.75	0.916666667	Artifact
+sub-20877_ses-1	BHRC	BHRC-2	-102			1	1	1	1	Pass
+sub-20878_ses-1	BHRC	BHRC-2	-96			1	1	1	1	Pass
+sub-20891_ses-1	BHRC	BHRC-2	-60			1	1	1	1	Pass
+sub-20894_ses-1	BHRC	BHRC-2	-46			1	1	0.75	0.916666667	Artifact
+sub-20911_ses-1	BHRC	BHRC-2	-44			1	1	1	1	Pass
+sub-20954_ses-2	BHRC	BHRC-2	-75			1	1	0.75	0.916666667	Artifact
+sub-20963_ses-1	BHRC	BHRC-2	-48			1	1	1	1	Pass
+sub-20978_ses-2	BHRC	BHRC-2	-89			1	1	1	1	Pass
+sub-20992_ses-1	BHRC	BHRC-2	-65			1	1	1	1	Pass
+sub-20995_ses-1	BHRC	BHRC-2	-101			1	1	1	1	Pass
+sub-21012_ses-1	BHRC	BHRC-2	-110			1	1	1	1	Pass
+sub-21012_ses-2	BHRC	BHRC-2	-157			1	1	1	1	Pass
+sub-21018_ses-1	BHRC	BHRC-2	-51			1	1	1	1	Pass
+sub-21044_ses-1	BHRC	BHRC-2	-72			1	1	1	1	Pass
+sub-21062_ses-1	BHRC	BHRC-2	-89			1	1	1	1	Pass
+sub-21080_ses-2	BHRC	BHRC-2	-54			1	1	1	1	Pass
+sub-21092_ses-1	BHRC	BHRC-2	-52			1	1	1	1	Pass
+sub-21133_ses-1	BHRC	BHRC-2	-82			1	1	1	1	Pass
+sub-21138_ses-2	BHRC	BHRC-2	-98			1	1	1	1	Pass
+sub-21164_ses-1	BHRC	BHRC-2	-107			1	1	1	1	Pass
+sub-21166_ses-1	BHRC	BHRC-2	-64			1	1	0.75	0.916666667	Artifact
+sub-21166_ses-2	BHRC	BHRC-2	-55			1	1	1	1	Pass
+sub-21178_ses-1	BHRC	BHRC-2	-76			1	1	1	1	Pass
+sub-21313_ses-2	BHRC	BHRC-2	-36			1	1	1	1	Pass
+sub-21341_ses-2	BHRC	BHRC-2	-34			1	1	1	1	Pass
+sub-21510_ses-2	BHRC	BHRC-2	-74			1	1	1	1	Pass
+sub-21674_ses-2	BHRC	BHRC-2	-44			1	1	1	1	Pass
+sub-21857_ses-2	BHRC	BHRC-2	-40			1	1	1	1	Pass
+sub-21858_ses-2	BHRC	BHRC-2	-83			1	1	1	1	Pass
+sub-10001_ses-2	BHRC	BHRC-1	-139	1			1		1	Pass
+sub-10615_ses-1	BHRC	BHRC-1	-102	1			1		1	Pass
+sub-10620_ses-2	BHRC	BHRC-1	-81	1			1		1	Pass
+sub-10632_ses-1	BHRC	BHRC-1	-129	1			1		1	Pass
+sub-10640_ses-3	BHRC	BHRC-1	-53	1			1		1	Pass
+sub-10643_ses-1	BHRC	BHRC-1	-125	1			1		1	Pass
+sub-10644_ses-1	BHRC	BHRC-1	-87	1			1		1	Pass
+sub-10644_ses-2	BHRC	BHRC-1	-78	1			1		1	Pass
+sub-10654_ses-1	BHRC	BHRC-1	-72	1			1		1	Pass
+sub-10659_ses-2	BHRC	BHRC-1	-105	1			1		1	Pass
+sub-10686_ses-1	BHRC	BHRC-1	-44	1			1		1	Pass
+sub-10695_ses-2	BHRC	BHRC-1	-90	1			1		1	Pass
+sub-10698_ses-2	BHRC	BHRC-1	-132	1			1		1	Pass
+sub-10712_ses-1	BHRC	BHRC-1	-83	1			1		1	Pass
+sub-10712_ses-2	BHRC	BHRC-1	-88	1			1		1	Pass
+sub-10713_ses-1	BHRC	BHRC-1	-108	1			1		1	Pass
+sub-10740_ses-1	BHRC	BHRC-1	-127	1			1		1	Pass
+sub-10749_ses-2	BHRC	BHRC-1	-57	1			1		1	Pass
+sub-10751_ses-1	BHRC	BHRC-1	-71	1			1		1	Pass
+sub-10762_ses-1	BHRC	BHRC-1	-85	1			1		1	Pass
+sub-10762_ses-2	BHRC	BHRC-1	-75	1			1		1	Pass
+sub-10774_ses-1	BHRC	BHRC-1	-71	1			1		1	Pass
+sub-10781_ses-1	BHRC	BHRC-1	-158	1			1		1	Pass
+sub-10786_ses-2	BHRC	BHRC-1	-66	1			1		1	Pass
+sub-10788_ses-1	BHRC	BHRC-1	-155	1			1		1	Pass
+sub-10788_ses-2	BHRC	BHRC-1	-137	1			1		1	Pass
+sub-10790_ses-2	BHRC	BHRC-1	-63	1			1		1	Pass
+sub-10820_ses-1	BHRC	BHRC-1	-118	1			1		1	Pass
+sub-10835_ses-2	BHRC	BHRC-1	-59	1			1		1	Pass
+sub-10845_ses-1	BHRC	BHRC-1	-120	1			1		1	Pass
+sub-10867_ses-1	BHRC	BHRC-1	-70	1			1		1	Pass
+sub-10875_ses-1	BHRC	BHRC-1	-58	1			1		1	Pass
+sub-10881_ses-1	BHRC	BHRC-1	-150	1			1		1	Pass
+sub-10903_ses-1	BHRC	BHRC-1	-75	1			1		1	Pass
+sub-10903_ses-2	BHRC	BHRC-1	-59	1			1		1	Pass
+sub-10950_ses-1	BHRC	BHRC-1	-72	1			1		1	Pass
+sub-10951_ses-1	BHRC	BHRC-1	-172	1			1		1	Pass
+sub-10981_ses-1	BHRC	BHRC-1	-67	1			1		1	Pass
+sub-10984_ses-1	BHRC	BHRC-1	-92	1			1		1	Pass
+sub-11005_ses-2	BHRC	BHRC-1	-37	1			1		1	Pass
+sub-11030_ses-2	BHRC	BHRC-1	-76	1			1		1	Pass
+sub-11039_ses-1	BHRC	BHRC-1	-85	1			1		1	Pass
+sub-11120_ses-1	BHRC	BHRC-1	-68	1			1		1	Pass
+sub-11171_ses-2	BHRC	BHRC-1	-38	1			1		1	Pass
+sub-11239_ses-1	BHRC	BHRC-1	-67	1			1		1	Pass
+sub-11244_ses-2	BHRC	BHRC-1	-34	1			1		1	Pass
+sub-20010_ses-3	BHRC	BHRC-2	-84	1			1		1	Pass
+sub-20013_ses-2	BHRC	BHRC-2	-98	1			1		1	Pass
+sub-20014_ses-2	BHRC	BHRC-2	-40	1			1		1	Pass
+sub-20032_ses-1	BHRC	BHRC-2	-94	1			1		1	Pass
+sub-20046_ses-1	BHRC	BHRC-2	-84	1			1		1	Pass
+sub-20047_ses-1	BHRC	BHRC-2	-50	1			1		1	Pass
+sub-20047_ses-2	BHRC	BHRC-2	-72	1			1		1	Pass
+sub-20048_ses-1	BHRC	BHRC-2	-203	0.75			0.5		0.625	Artifact
+sub-20054_ses-1	BHRC	BHRC-2	-78	1			1		1	Pass
+sub-20067_ses-1	BHRC	BHRC-2	-60	1			1		1	Pass
+sub-20071_ses-2	BHRC	BHRC-2	-61	1			1		1	Pass
+sub-20072_ses-1	BHRC	BHRC-2	-46	1			1		1	Pass
+sub-20082_ses-1	BHRC	BHRC-2	-69	1			1		1	Pass
+sub-20089_ses-1	BHRC	BHRC-2	-79	1			1		1	Pass
+sub-20091_ses-1	BHRC	BHRC-2	-74	1			1		1	Pass
+sub-20096_ses-1	BHRC	BHRC-2	-74	1			1		1	Pass
+sub-20105_ses-2	BHRC	BHRC-2	-23	1			1		1	Pass
+sub-20119_ses-1	BHRC	BHRC-2	-82	1			1		1	Pass
+sub-20136_ses-1	BHRC	BHRC-2	-65	1			1		1	Pass
+sub-20141_ses-1	BHRC	BHRC-2	-49	1			1		1	Pass
+sub-20160_ses-2	BHRC	BHRC-2	-82	1			1		1	Pass
+sub-20163_ses-1	BHRC	BHRC-2	-59	1			1		1	Pass
+sub-20198_ses-2	BHRC	BHRC-2	-56	1			1		1	Pass
+sub-20214_ses-2	BHRC	BHRC-2	-65	1			1		1	Pass
+sub-20232_ses-1	BHRC	BHRC-2	-102	1			1		1	Pass
+sub-20255_ses-1	BHRC	BHRC-2	-70	1			1		1	Pass
+sub-20266_ses-1	BHRC	BHRC-2	-52	1			1		1	Pass
+sub-20290_ses-2	BHRC	BHRC-2	-67	1			1		1	Pass
+sub-20291_ses-1	BHRC	BHRC-2	-67	1			1		1	Pass
+sub-20295_ses-1	BHRC	BHRC-2	-68	1			1		1	Pass
+sub-20301_ses-1	BHRC	BHRC-2	-116	1			1		1	Pass
+sub-20320_ses-1	BHRC	BHRC-2	-88	1			1		1	Pass
+sub-20322_ses-1	BHRC	BHRC-2	-81	1			1		1	Pass
+sub-20323_ses-1	BHRC	BHRC-2	-43	1			1		1	Pass
+sub-20331_ses-2	BHRC	BHRC-2	-73	1			1		1	Pass
+sub-20355_ses-1	BHRC	BHRC-2	-47	1			1		1	Pass
+sub-20365_ses-2	BHRC	BHRC-2	-93	1			1		1	Pass
+sub-20372_ses-1	BHRC	BHRC-2	-86	1			1		1	Pass
+sub-20372_ses-2	BHRC	BHRC-2	-90	1			1		1	Pass
+sub-20373_ses-1	BHRC	BHRC-2	-68	1			1		1	Pass
+sub-20377_ses-1	BHRC	BHRC-2	-104	1			1		1	Pass
+sub-20382_ses-1	BHRC	BHRC-2	-56	1			1		1	Pass
+sub-20391_ses-1	BHRC	BHRC-2	-69	1			1		1	Pass
+sub-20400_ses-2	BHRC	BHRC-2	-110	1			1		1	Pass
+sub-30000_ses-1	BHRC	BHRC-2	-73	1			1		1	Pass
+sub-20417_ses-2	BHRC	BHRC-2	-56	1			1		1	Pass
+sub-20461_ses-2	BHRC	BHRC-2	-36	1			1		1	Pass
+sub-20467_ses-2	BHRC	BHRC-2	-82	1			1		1	Pass
+sub-20487_ses-1	BHRC	BHRC-2	-83	1			1		1	Pass
+sub-20491_ses-1	BHRC	BHRC-2	-54	1			1		1	Pass
+sub-20535_ses-1	BHRC	BHRC-2	-52	1			1		1	Pass
+sub-20541_ses-1	BHRC	BHRC-2	-51	1			1		1	Pass
+sub-20548_ses-1	BHRC	BHRC-2	-58	1			1		1	Pass
+sub-20550_ses-2	BHRC	BHRC-2	-77	1			1		1	Pass
+sub-20583_ses-1	BHRC	BHRC-2	-124	1			1		1	Pass
+sub-20587_ses-1	BHRC	BHRC-2	-68	1			1		1	Pass
+sub-20590_ses-2	BHRC	BHRC-2	-84	1			1		1	Pass
+sub-20602_ses-1	BHRC	BHRC-2	-105	1			1		1	Pass
+sub-20613_ses-1	BHRC	BHRC-2	-95	1			1		1	Pass
+sub-20614_ses-1	BHRC	BHRC-2	-111	1			1		1	Pass
+sub-20615_ses-2	BHRC	BHRC-2	-57	1			1		1	Pass
+sub-20624_ses-2	BHRC	BHRC-2	-109	1			1		1	Pass
+sub-20632_ses-3	BHRC	BHRC-2	-45	1			1		1	Pass
+sub-20643_ses-1	BHRC	BHRC-2	-96	1			1		1	Pass
+sub-20647_ses-2	BHRC	BHRC-2	-55	1			1		1	Pass
+sub-20652_ses-2	BHRC	BHRC-2	-71	1			1		1	Pass
+sub-20655_ses-2	BHRC	BHRC-2	-48	1			1		1	Pass
+sub-20662_ses-1	BHRC	BHRC-2	-87	1			1		1	Pass
+sub-20667_ses-1	BHRC	BHRC-2	-62	1			1		1	Pass
+sub-20671_ses-1	BHRC	BHRC-2	-87	1			1		1	Pass
+sub-20675_ses-1	BHRC	BHRC-2	-54	1			1		1	Pass
+sub-20731_ses-1	BHRC	BHRC-2	-96	1			1		1	Pass
+sub-20741_ses-1	BHRC	BHRC-2	-45	1			1		1	Pass
+sub-20745_ses-1	BHRC	BHRC-2	-76	1			1		1	Pass
+sub-20758_ses-1	BHRC	BHRC-2	-47	1			1		1	Pass
+sub-20760_ses-2	BHRC	BHRC-2	-65	1			1		1	Pass
+sub-20771_ses-1	BHRC	BHRC-2	-64	1			1		1	Pass
+sub-20771_ses-2	BHRC	BHRC-2	-80	1			1		1	Pass
+sub-20793_ses-1	BHRC	BHRC-2	-58	1			1		1	Pass
+sub-20811_ses-1	BHRC	BHRC-2	-101	1			1		1	Pass
+sub-20815_ses-2	BHRC	BHRC-2	-50	1			1		1	Pass
+sub-20826_ses-1	BHRC	BHRC-2	-48	1			1		1	Pass
+sub-20844_ses-1	BHRC	BHRC-2	-30	1			1		1	Pass
+sub-20850_ses-1	BHRC	BHRC-2	-55	1			1		1	Pass
+sub-20857_ses-2	BHRC	BHRC-2	-97	1			1		1	Pass
+sub-20866_ses-3	BHRC	BHRC-2	-33	1			1		1	Pass
+sub-20870_ses-1	BHRC	BHRC-2	-100	1			1		1	Pass
+sub-20880_ses-2	BHRC	BHRC-2	-60	1			1		1	Pass
+sub-20894_ses-2	BHRC	BHRC-2	-48	1			1		1	Pass
+sub-20905_ses-1	BHRC	BHRC-2	-52	1			1		1	Pass
+sub-20905_ses-2	BHRC	BHRC-2	-60	1			1		1	Pass
+sub-20922_ses-1	BHRC	BHRC-2	-65	1			1		1	Pass
+sub-20923_ses-2	BHRC	BHRC-2	-74	1			1		1	Pass
+sub-20930_ses-2	BHRC	BHRC-2	-75	1			1		1	Pass
+sub-20974_ses-1	BHRC	BHRC-2	-71	1			1		1	Pass
+sub-20991_ses-2	BHRC	BHRC-2	-38	1			1		1	Pass
+sub-21004_ses-1	BHRC	BHRC-2	-64	1			1		1	Pass
+sub-21021_ses-2	BHRC	BHRC-2	-63	1			1		1	Pass
+sub-21022_ses-1	BHRC	BHRC-2	-97	1			1		1	Pass
+sub-21033_ses-1	BHRC	BHRC-2	-143	1			1		1	Pass
+sub-21033_ses-2	BHRC	BHRC-2	-121	1			1		1	Pass
+sub-21042_ses-1	BHRC	BHRC-2	-86	1			1		1	Pass
+sub-21055_ses-1	BHRC	BHRC-2	-64	1			1		1	Pass
+sub-21056_ses-2	BHRC	BHRC-2	-74	1			1		1	Pass
+sub-21061_ses-2	BHRC	BHRC-2	-53	1			1		1	Pass
+sub-21070_ses-1	BHRC	BHRC-2	-61	1			1		1	Pass
+sub-21090_ses-2	BHRC	BHRC-2	-106	1			1		1	Pass
+sub-21115_ses-1	BHRC	BHRC-2	-41	1			1		1	Pass
+sub-21117_ses-1	BHRC	BHRC-2	-61	1			1		1	Pass
+sub-21120_ses-1	BHRC	BHRC-2	-43	1			1		1	Pass
+sub-21120_ses-2	BHRC	BHRC-2	-51	1			1		1	Pass
+sub-21125_ses-1	BHRC	BHRC-2	-79	1			1		1	Pass
+sub-21145_ses-2	BHRC	BHRC-2	-70	1			1		1	Pass
+sub-21153_ses-2	BHRC	BHRC-2	-62	1			1		1	Pass
+sub-21165_ses-1	BHRC	BHRC-2	-89	1			1		1	Pass
+sub-21362_ses-2	BHRC	BHRC-2	-63	1			1		1	Pass
+sub-21474_ses-2	BHRC	BHRC-2	-113	1			1		1	Pass
+sub-21713_ses-2	BHRC	BHRC-2	-46	1			1		1	Pass
+sub-21841_ses-2	BHRC	BHRC-2	-42	1			1		1	Pass
+sub-10001_ses-1	BHRC	BHRC-1	-111		1	1		1	1	Pass
+sub-10617_ses-2	BHRC	BHRC-1	-112		1	1		1	1	Pass
+sub-10627_ses-1	BHRC	BHRC-1	-71		1	1		1	1	Pass
+sub-10634_ses-1	BHRC	BHRC-1	-135		0.75	1		0.75	0.833333333	Artifact
+sub-10637_ses-1	BHRC	BHRC-1	-68		1	1		1	1	Pass
+sub-10650_ses-1	BHRC	BHRC-1	-157		0	0.5		0.5	0.333333333	Artifact
+sub-10651_ses-1	BHRC	BHRC-1	-103		1	1		1	1	Pass
+sub-10657_ses-1	BHRC	BHRC-1	-148		1	1		1	1	Pass
+sub-10667_ses-2	BHRC	BHRC-1	-47		1	1		1	1	Pass
+sub-10671_ses-2	BHRC	BHRC-1	-89		1	1		1	1	Pass
+sub-10675_ses-1	BHRC	BHRC-1	-68		1	1		1	1	Pass
+sub-10684_ses-1	BHRC	BHRC-1	-123		1	1		1	1	Pass
+sub-10693_ses-1	BHRC	BHRC-1	-76		1	1		1	1	Pass
+sub-10693_ses-2	BHRC	BHRC-1	-57		1	1		1	1	Pass
+sub-10701_ses-1	BHRC	BHRC-1	-59		1	1		1	1	Pass
+sub-10710_ses-2	BHRC	BHRC-1	-152		1	1		1	1	Pass
+sub-10744_ses-2	BHRC	BHRC-1	-82		1	1		1	1	Pass
+sub-10745_ses-1	BHRC	BHRC-1	-137		0.75	0.75		0.5	0.666666667	Artifact
+sub-10749_ses-1	BHRC	BHRC-1	-74		1	1		1	1	Pass
+sub-10761_ses-1	BHRC	BHRC-1	-77		1	1		1	1	Pass
+sub-10766_ses-2	BHRC	BHRC-1	-58		1	1		1	1	Pass
+sub-10773_ses-1	BHRC	BHRC-1	-110		0.75	1		1	0.916666667	Artifact
+sub-10787_ses-2	BHRC	BHRC-1	-62		1	1		1	1	Pass
+sub-10794_ses-2	BHRC	BHRC-1	-38		1	1		1	1	Pass
+sub-10798_ses-1	BHRC	BHRC-1	-53		1	1		0.75	0.916666667	Artifact
+sub-10808_ses-2	BHRC	BHRC-1	-46		1	1		1	1	Pass
+sub-10814_ses-1	BHRC	BHRC-1	-82		1	1		1	1	Pass
+sub-10826_ses-2	BHRC	BHRC-1	-83		1	1		1	1	Pass
+sub-10832_ses-1	BHRC	BHRC-1	-65		1	1		1	1	Pass
+sub-10845_ses-2	BHRC	BHRC-1	-86		1	1		1	1	Pass
+sub-10890_ses-1	BHRC	BHRC-1	-105		1	1		1	1	Pass
+sub-10890_ses-2	BHRC	BHRC-1	-101		1	1		1	1	Pass
+sub-10917_ses-2	BHRC	BHRC-1	-51		1	1		0.75	0.916666667	Artifact
+sub-10928_ses-1	BHRC	BHRC-1	-48		1	1		1	1	Pass
+sub-10928_ses-2	BHRC	BHRC-1	-40		1	1		1	1	Pass
+sub-10930_ses-1	BHRC	BHRC-1	-125		1	1		0.75	0.916666667	Artifact
+sub-10936_ses-1	BHRC	BHRC-1	-95		0.75	1		1	0.916666667	Artifact
+sub-10984_ses-2	BHRC	BHRC-1	-129		1	1		1	1	Pass
+sub-11003_ses-1	BHRC	BHRC-1	-50		1	1		1	1	Pass
+sub-11005_ses-1	BHRC	BHRC-1	-56		1	1		1	1	Pass
+sub-11030_ses-1	BHRC	BHRC-1	-114		0.75	1		1	0.916666667	Artifact
+sub-11038_ses-2	BHRC	BHRC-1	-85		1	1		1	1	Pass
+sub-11065_ses-2	BHRC	BHRC-1	-100		1	1		1	1	Pass
+sub-11106_ses-1	BHRC	BHRC-1	-198		0.75	1		1	0.916666667	Artifact
+sub-11156_ses-2	BHRC	BHRC-1	-104		1	1		1	1	Pass
+sub-11173_ses-1	BHRC	BHRC-1	-166		0.75	1		1	0.916666667	Artifact
+sub-11210_ses-1	BHRC	BHRC-1	-67		1	1		1	1	Pass
+sub-11455_ses-2	BHRC	BHRC-1	-88		1	1		1	1	Pass
+sub-11723_ses-2	BHRC	BHRC-1	-78		1	1		1	1	Pass
+sub-20004_ses-1	BHRC	BHRC-2	-45		1	1		1	1	Pass
+sub-20004_ses-2	BHRC	BHRC-2	-55		1	1		1	1	Pass
+sub-20006_ses-2	BHRC	BHRC-2	-52		1	1		1	1	Pass
+sub-20035_ses-2	BHRC	BHRC-2	-72		1	1		1	1	Pass
+sub-20043_ses-2	BHRC	BHRC-2	-75		1	1		1	1	Pass
+sub-20048_ses-2	BHRC	BHRC-2	-86		0.75	1		1	0.916666667	Artifact
+sub-20067_ses-2	BHRC	BHRC-2	-79		1	1		1	1	Pass
+sub-20082_ses-2	BHRC	BHRC-2	-43		1	1		1	1	Pass
+sub-20092_ses-2	BHRC	BHRC-2	-89		1	1		1	1	Pass
+sub-20097_ses-2	BHRC	BHRC-2	-63		1	1		1	1	Pass
+sub-20157_ses-2	BHRC	BHRC-2	-81		1	1		1	1	Pass
+sub-20172_ses-1	BHRC	BHRC-2	-63		1	1		1	1	Pass
+sub-20178_ses-2	BHRC	BHRC-2	-86		1	1		1	1	Pass
+sub-20182_ses-1	BHRC	BHRC-2	-60		1	1		1	1	Pass
+sub-20182_ses-2	BHRC	BHRC-2	-52		1	1		1	1	Pass
+sub-20195_ses-1	BHRC	BHRC-2	-118		1	1		1	1	Pass
+sub-20204_ses-1	BHRC	BHRC-2	-54		1	1		1	1	Pass
+sub-20212_ses-1	BHRC	BHRC-2	-84		1	1		1	1	Pass
+sub-20221_ses-1	BHRC	BHRC-2	-63		1	1		1	1	Pass
+sub-20230_ses-2	BHRC	BHRC-2	-56		1	1		1	1	Pass
+sub-20237_ses-1	BHRC	BHRC-2	-44		1	1		1	1	Pass
+sub-20245_ses-1	BHRC	BHRC-2	-88		1	1		1	1	Pass
+sub-20263_ses-1	BHRC	BHRC-2	-131		1	1		1	1	Pass
+sub-20263_ses-2	BHRC	BHRC-2	-97		1	1		1	1	Pass
+sub-20279_ses-1	BHRC	BHRC-2	-78		1	1		1	1	Pass
+sub-20286_ses-1	BHRC	BHRC-2	-99		1	1		1	1	Pass
+sub-20296_ses-1	BHRC	BHRC-2	-56		1	1		1	1	Pass
+sub-20326_ses-2	BHRC	BHRC-2	-32		1	1		1	1	Pass
+sub-20332_ses-1	BHRC	BHRC-2	-102		1	1		1	1	Pass
+sub-20338_ses-1	BHRC	BHRC-2	-73		0.75	1		1	0.916666667	Artifact
+sub-20361_ses-1	BHRC	BHRC-2	-59		1	1		1	1	Pass
+sub-20365_ses-1	BHRC	BHRC-2	-80		1	1		1	1	Pass
+sub-20369_ses-1	BHRC	BHRC-2	-84		0.75	1		0.75	0.833333333	Artifact
+sub-20378_ses-2	BHRC	BHRC-2	-64		1	1		1	1	Pass
+sub-20386_ses-1	BHRC	BHRC-2	-65		1	1		1	1	Pass
+sub-20388_ses-1	BHRC	BHRC-2	-75		1	1		1	1	Pass
+sub-20406_ses-1	BHRC	BHRC-2	-66		1	1		1	1	Pass
+sub-20430_ses-2	BHRC	BHRC-2	-36		1	1		1	1	Pass
+sub-20442_ses-2	BHRC	BHRC-2	-68		1	1		1	1	Pass
+sub-20466_ses-1	BHRC	BHRC-2	-117		0.75	1		1	0.916666667	Artifact
+sub-20474_ses-1	BHRC	BHRC-2	-58		1	1		1	1	Pass
+sub-20489_ses-1	BHRC	BHRC-2	-67		1	1		1	1	Pass
+sub-20494_ses-1	BHRC	BHRC-2	-91		1	1		1	1	Pass
+sub-20525_ses-2	BHRC	BHRC-2	-81		1	1		1	1	Pass
+sub-20528_ses-2	BHRC	BHRC-2	-73		1	1		1	1	Pass
+sub-20530_ses-1	BHRC	BHRC-2	-87		1	1		1	1	Pass
+sub-20532_ses-2	BHRC	BHRC-2	-75		1	1		1	1	Pass
+sub-20568_ses-1	BHRC	BHRC-2	-26		1	1		1	1	Pass
+sub-20573_ses-1	BHRC	BHRC-2	-67		1	1		1	1	Pass
+sub-20587_ses-2	BHRC	BHRC-2	-72		1	1		1	1	Pass
+sub-20594_ses-1	BHRC	BHRC-2	-68		1	1		1	1	Pass
+sub-20616_ses-1	BHRC	BHRC-2	-57		1	1		1	1	Pass
+sub-20624_ses-1	BHRC	BHRC-2	-98		1	1		1	1	Pass
+sub-20647_ses-1	BHRC	BHRC-2	-34		1	1		1	1	Pass
+sub-20654_ses-1	BHRC	BHRC-2	-65		1	1		1	1	Pass
+sub-20655_ses-1	BHRC	BHRC-2	-49		1	1		1	1	Pass
+sub-20665_ses-1	BHRC	BHRC-2	-87		0.75	1		1	0.916666667	Artifact
+sub-20672_ses-1	BHRC	BHRC-2	-83		1	1		1	1	Pass
+sub-20683_ses-1	BHRC	BHRC-2	-77		1	1		1	1	Pass
+sub-20689_ses-2	BHRC	BHRC-2	-55		1	1		1	1	Pass
+sub-20698_ses-2	BHRC	BHRC-2	-96		1	1		1	1	Pass
+sub-20714_ses-2	BHRC	BHRC-2	-63		1	1		1	1	Pass
+sub-20717_ses-1	BHRC	BHRC-2	-106		1	1		1	1	Pass
+sub-20727_ses-2	BHRC	BHRC-2	-74		1	1		1	1	Pass
+sub-20737_ses-1	BHRC	BHRC-2	-36		1	1		1	1	Pass
+sub-20737_ses-2	BHRC	BHRC-2	-40		1	1		1	1	Pass
+sub-20738_ses-2	BHRC	BHRC-2	-61		1	1		1	1	Pass
+sub-20745_ses-2	BHRC	BHRC-2	-92		1	1		1	1	Pass
+sub-20769_ses-1	BHRC	BHRC-2	-127		0.75	1		0.75	0.833333333	Artifact
+sub-20772_ses-1	BHRC	BHRC-2	-74		1	1		1	1	Pass
+sub-20800_ses-2	BHRC	BHRC-2	-62		1	1		1	1	Pass
+sub-20818_ses-2	BHRC	BHRC-2	-47		1	1		1	1	Pass
+sub-20829_ses-3	BHRC	BHRC-2	-50		1	1		1	1	Pass
+sub-20833_ses-1	BHRC	BHRC-2	-71		1	1		1	1	Pass
+sub-20844_ses-2	BHRC	BHRC-2	-18		1	1		1	1	Pass
+sub-20856_ses-2	BHRC	BHRC-2	-41		1	1		1	1	Pass
+sub-20875_ses-1	BHRC	BHRC-2	-71		1	1		1	1	Pass
+sub-20875_ses-2	BHRC	BHRC-2	-44		1	1		1	1	Pass
+sub-20880_ses-1	BHRC	BHRC-2	-85		1	1		1	1	Pass
+sub-20901_ses-1	BHRC	BHRC-2	-140		1	1		1	1	Pass
+sub-20909_ses-2	BHRC	BHRC-2	-109		1	1		1	1	Pass
+sub-20915_ses-1	BHRC	BHRC-2	-93		1	1		1	1	Pass
+sub-20916_ses-2	BHRC	BHRC-2	-70		1	1		1	1	Pass
+sub-20922_ses-2	BHRC	BHRC-2	-76		1	1		1	1	Pass
+sub-20930_ses-1	BHRC	BHRC-2	-106		1	1		1	1	Pass
+sub-20934_ses-1	BHRC	BHRC-2	-58		1	1		1	1	Pass
+sub-20935_ses-2	BHRC	BHRC-2	-95		1	1		1	1	Pass
+sub-20936_ses-1	BHRC	BHRC-2	-59		1	1		1	1	Pass
+sub-20939_ses-1	BHRC	BHRC-2	-96		1	1		1	1	Pass
+sub-20943_ses-1	BHRC	BHRC-2	-72		1	1		1	1	Pass
+sub-20954_ses-1	BHRC	BHRC-2	-64		1	1		1	1	Pass
+sub-20962_ses-1	BHRC	BHRC-2	-53		1	1		1	1	Pass
+sub-20989_ses-1	BHRC	BHRC-2	-64		1	1		1	1	Pass
+sub-21007_ses-1	BHRC	BHRC-2	-73		1	1		1	1	Pass
+sub-21022_ses-2	BHRC	BHRC-2	-90		1	1		1	1	Pass
+sub-21024_ses-1	BHRC	BHRC-2	-67		1	1		1	1	Pass
+sub-21024_ses-2	BHRC	BHRC-2	-48		1	1		1	1	Pass
+sub-21043_ses-1	BHRC	BHRC-2	-80		0.75	1		1	0.916666667	Artifact
+sub-21053_ses-1	BHRC	BHRC-2	-71		0.75	1		1	0.916666667	Artifact
+sub-21065_ses-1	BHRC	BHRC-2	-121		1	1		1	1	Pass
+sub-21069_ses-1	BHRC	BHRC-2	-59		1	1		1	1	Pass
+sub-21070_ses-2	BHRC	BHRC-2	-49		1	1		1	1	Pass
+sub-21074_ses-2	BHRC	BHRC-2	-51		1	1		1	1	Pass
+sub-21078_ses-2	BHRC	BHRC-2	-70		1	1		1	1	Pass
+sub-21082_ses-1	BHRC	BHRC-2	-38		1	1		1	1	Pass
+sub-21084_ses-1	BHRC	BHRC-2	-69		1	1		1	1	Pass
+sub-21085_ses-1	BHRC	BHRC-2	-66		1	1		1	1	Pass
+sub-21101_ses-1	BHRC	BHRC-2	-82		1	1		1	1	Pass
+sub-21319_ses-2	BHRC	BHRC-2	-69		1	1		1	1	Pass
+sub-21434_ses-2	BHRC	BHRC-2	-60		1	1		1	1	Pass
+sub-21598_ses-2	BHRC	BHRC-2	-45		1	1		1	1	Pass
+sub-21714_ses-2	BHRC	BHRC-2	-53		1	1		1	1	Pass
+sub-21773_ses-2	BHRC	BHRC-2	-48		1	1		1	1	Pass
+sub-21913_ses-2	BHRC	BHRC-2	-61		1	1		1	1	Pass
+sub-21927_ses-2	BHRC	BHRC-2	-43		1	1		1	1	Pass
+sub-10618_ses-2	BHRC	BHRC-1	-241	0.25	0.25	0	0	0	0.1	Artifact
+sub-10624_ses-2	BHRC	BHRC-1	-110	1	1	1	0.75	0.5	0.85	Artifact
+sub-10634_ses-2	BHRC	BHRC-1	-97	1	1	1	1	1	1	Pass
+sub-10649_ses-1	BHRC	BHRC-1	-78	1	1	1	1	1	1	Pass
+sub-10654_ses-2	BHRC	BHRC-1	-53	1	1	1	1	1	1	Pass
+sub-10655_ses-1	BHRC	BHRC-1	-85	1	1	1	1	1	1	Pass
+sub-10655_ses-2	BHRC	BHRC-1	-124	0.75	1	1	0.75	0.75	0.85	Artifact
+sub-10694_ses-1	BHRC	BHRC-1	-106	1	1	1	1	1	1	Pass
+sub-10746_ses-2	BHRC	BHRC-1	-73	1	1	1	1	1	1	Pass
+sub-10753_ses-1	BHRC	BHRC-1	-72	1	1	1	1	1	1	Pass
+sub-10754_ses-1	BHRC	BHRC-1	-86	1	1	1	1	1	1	Pass
+sub-10754_ses-2	BHRC	BHRC-1	-64	1	1	1	1	1	1	Pass
+sub-10761_ses-2	BHRC	BHRC-1	-34	1	1	1	1	1	1	Pass
+sub-10773_ses-2	BHRC	BHRC-1	-67	1	1	1	1	1	1	Pass
+sub-10785_ses-1	BHRC	BHRC-1	-73	1	1	1	1	1	1	Pass
+sub-10787_ses-1	BHRC	BHRC-1	-105	0.75	1	1	0.75	0.75	0.85	Artifact
+sub-10790_ses-1	BHRC	BHRC-1	-87	1	1	1	1	1	1	Pass
+sub-10814_ses-2	BHRC	BHRC-1	-82	1	1	1	1	1	1	Pass
+sub-10824_ses-1	BHRC	BHRC-1	-53	1	1	1	1	1	1	Pass
+sub-10829_ses-1	BHRC	BHRC-1	-68	1	1	1	1	1	1	Pass
+sub-10832_ses-2	BHRC	BHRC-1	-54	1	1	1	1	1	1	Pass
+sub-10856_ses-1	BHRC	BHRC-1	-103	1	1	1	1	1	1	Pass
+sub-10860_ses-1	BHRC	BHRC-1	-59	1	1	1	1	1	1	Pass
+sub-10891_ses-1	BHRC	BHRC-1	-133	1	1	1	1	1	1	Pass
+sub-10961_ses-1	BHRC	BHRC-1	-128	1	1	1	1	1	1	Pass
+sub-10969_ses-1	BHRC	BHRC-1	-99	1	1	1	0.75	1	0.95	Artifact
+sub-10970_ses-1	BHRC	BHRC-1	-43	1	1	1	1	1	1	Pass
+sub-11004_ses-2	BHRC	BHRC-1	-58	1	1	1	1	1	1	Pass
+sub-11063_ses-2	BHRC	BHRC-1	-81	1	1	1	0.75	0.75	0.9	Artifact
+sub-11115_ses-1	BHRC	BHRC-1	-82	1	1	1	1	1	1	Pass
+sub-11159_ses-2	BHRC	BHRC-1	-38	1	1	1	1	1	1	Pass
+sub-11329_ses-2	BHRC	BHRC-1	-66	1	1	1	1	1	1	Pass
+sub-11619_ses-2	BHRC	BHRC-1	-165	0	0	0.75	0.25	0.5	0.3	Artifact
+sub-20032_ses-2	BHRC	BHRC-2	-58	1	1	1	1	1	1	Pass
+sub-20065_ses-1	BHRC	BHRC-2	-52	1	1	1	1	1	1	Pass
+sub-20065_ses-2	BHRC	BHRC-2	-50	1	1	1	1	1	1	Pass
+sub-20071_ses-1	BHRC	BHRC-2	-79	1	1	1	1	1	1	Pass
+sub-20083_ses-1	BHRC	BHRC-2	-40	1	1	1	1	1	1	Pass
+sub-20163_ses-2	BHRC	BHRC-2	-48	1	1	1	1	1	1	Pass
+sub-20170_ses-2	BHRC	BHRC-2	-49	1	1	1	1	1	1	Pass
+sub-20191_ses-1	BHRC	BHRC-2	-69	1	1	1	1	1	1	Pass
+sub-20193_ses-1	BHRC	BHRC-2	-56	1	1	1	1	1	1	Pass
+sub-20198_ses-1	BHRC	BHRC-2	-74	1	1	1	1	1	1	Pass
+sub-20213_ses-2	BHRC	BHRC-2	-43	1	1	1	1	1	1	Pass
+sub-20214_ses-1	BHRC	BHRC-2	-96	1	1	1	1	1	1	Pass
+sub-20228_ses-2	BHRC	BHRC-2	-70	1	1	1	1	1	1	Pass
+sub-20274_ses-1	BHRC	BHRC-2	-75	1	1	1	1	1	1	Pass
+sub-20329_ses-2	BHRC	BHRC-2	-47	1	1	1	1	1	1	Pass
+sub-20343_ses-2	BHRC	BHRC-2	-71	1	1	1	1	1	1	Pass
+sub-20366_ses-1	BHRC	BHRC-2	-152	1	1	1	1	1	1	Pass
+sub-20381_ses-1	BHRC	BHRC-2	-84	1	1	1	0.75	0.5	0.85	Artifact
+sub-20382_ses-2	BHRC	BHRC-2	-61	1	1	1	1	1	1	Pass
+sub-20489_ses-2	BHRC	BHRC-2	-45	1	0.75	1	1	1	0.95	Artifact
+sub-20503_ses-1	BHRC	BHRC-2	-71	1	1	1	1	1	1	Pass
+sub-20512_ses-1	BHRC	BHRC-2	-101	1	1	1	1	1	1	Pass
+sub-20539_ses-1	BHRC	BHRC-2	-112	1	1	1	1	1	1	Pass
+sub-20556_ses-2	BHRC	BHRC-2	-68	1	1	1	0.75	0.75	0.9	Artifact
+sub-20567_ses-1	BHRC	BHRC-2	-65	1	1	1	1	1	1	Pass
+sub-20579_ses-2	BHRC	BHRC-2	-63	1	1	1	1	1	1	Pass
+sub-20672_ses-2	BHRC	BHRC-2	-51	1	1	1	1	1	1	Pass
+sub-20698_ses-1	BHRC	BHRC-2	-87	1	1	1	1	1	1	Pass
+sub-20700_ses-1	BHRC	BHRC-2	-36	1	1	1	1	1	1	Pass
+sub-20719_ses-2	BHRC	BHRC-2	-62	1	1	1	1	1	1	Pass
+sub-20733_ses-1	BHRC	BHRC-2	-83	1	1	1	1	1	1	Pass
+sub-20795_ses-1	BHRC	BHRC-2	-89	1	1	1	1	1	1	Pass
+sub-20806_ses-2	BHRC	BHRC-2	-26	1	1	1	1	1	1	Pass
+sub-20816_ses-1	BHRC	BHRC-2	-77	1	1	1	1	1	1	Pass
+sub-20846_ses-2	BHRC	BHRC-2	-92	1	1	1	1	1	1	Pass
+sub-20968_ses-1	BHRC	BHRC-2	-63	1	1	1	1	1	1	Pass
+sub-20978_ses-1	BHRC	BHRC-2	-90	1	1	1	1	1	1	Pass
+sub-20980_ses-1	BHRC	BHRC-2	-139	1	1	1	1	1	1	Pass
+sub-20981_ses-2	BHRC	BHRC-2	-60	1	1	1	1	1	1	Pass
+sub-20984_ses-1	BHRC	BHRC-2	-57	1	1	1	1	1	1	Pass
+sub-21009_ses-1	BHRC	BHRC-2	-120	1	1	1	1	1	1	Pass
+sub-21021_ses-1	BHRC	BHRC-2	-67	1	1	1	1	1	1	Pass
+sub-21031_ses-1	BHRC	BHRC-2	-56	1	1	1	1	1	1	Pass
+sub-21039_ses-1	BHRC	BHRC-2	-74	1	1	1	1	0.75	0.95	Artifact
+sub-21041_ses-1	BHRC	BHRC-2	-94	1	1	1	1	1	1	Pass
+sub-21044_ses-2	BHRC	BHRC-2	-60	1	1	1	1	1	1	Pass
+sub-21134_ses-1	BHRC	BHRC-2	-76	1	1	1	1	1	1	Pass
+sub-21424_ses-2	BHRC	BHRC-2	-46	1	0.75	1	1	0.75	0.9	Artifact
+sub-21534_ses-2	BHRC	BHRC-2	-116	1	1	1	1	1	1	Pass
+sub-21838_ses-2	BHRC	BHRC-2	-65	1	1	1	1	1	1	Pass
+sub-10643_ses-2	BHRC	BHRC-1	-130	1	0.75	1	1	1	0.95	Artifact
+sub-10646_ses-2	BHRC	BHRC-1	-104	1	1	1	1	1	1	Pass
+sub-10665_ses-2	BHRC	BHRC-1	-58	1	1	1	1	1	1	Pass
+sub-10671_ses-1	BHRC	BHRC-1	-146	1	1	1	1	1	1	Pass
+sub-10676_ses-1	BHRC	BHRC-1	-88	1	0.75	1	1	1	0.95	Artifact
+sub-10680_ses-1	BHRC	BHRC-1	-108	1	1	1	1	1	1	Pass
+sub-10687_ses-1	BHRC	BHRC-1	-78	1	1	1	1	1	1	Pass
+sub-10698_ses-1	BHRC	BHRC-1	-106	1	1	1	1	1	1	Pass
+sub-10700_ses-2	BHRC	BHRC-1	-137	1	1	1	1	1	1	Pass
+sub-10703_ses-2	BHRC	BHRC-1	-63	1	1	1	1	1	1	Pass
+sub-10785_ses-2	BHRC	BHRC-1	-62	1	1	1	1	1	1	Pass
+sub-10791_ses-1	BHRC	BHRC-1	-80	1	1	1	1	1	1	Pass
+sub-10794_ses-1	BHRC	BHRC-1	-44	1	1	1	1	1	1	Pass
+sub-10806_ses-1	BHRC	BHRC-1	-123	1	1	1	1	1	1	Pass
+sub-10829_ses-2	BHRC	BHRC-1	-67	1	1	1	1	1	1	Pass
+sub-10830_ses-2	BHRC	BHRC-1	-73	1	1	1	1	1	1	Pass
+sub-10841_ses-1	BHRC	BHRC-1	-51	1	1	1	1	1	1	Pass
+sub-10869_ses-1	BHRC	BHRC-1	-74	1	1	1	1	1	1	Pass
+sub-10970_ses-2	BHRC	BHRC-1	-72	1	1	1	1	1	1	Pass
+sub-10990_ses-2	BHRC	BHRC-1	-86	1	1	1	1	1	1	Pass
+sub-11038_ses-1	BHRC	BHRC-1	-127	1	1	1	1	1	1	Pass
+sub-11054_ses-1	BHRC	BHRC-1	-156	1	1	1	1	1	1	Pass
+sub-11115_ses-2	BHRC	BHRC-1	-83	1	1	1	1	1	1	Pass
+sub-11122_ses-1	BHRC	BHRC-1	-85	1	1	1	1	1	1	Pass
+sub-11149_ses-1	BHRC	BHRC-1	-114	1	1	1	1	1	1	Pass
+sub-11150_ses-2	BHRC	BHRC-1	-68	1	1	1	1	1	1	Pass
+sub-11165_ses-1	BHRC	BHRC-1	-76	1	1	1	1	1	1	Pass
+sub-11170_ses-2	BHRC	BHRC-1	-102	1	1	1	1	1	1	Pass
+sub-11830_ses-2	BHRC	BHRC-1	-59	1	1	1	1	1	1	Pass
+sub-20041_ses-1	BHRC	BHRC-2	-53	1	1	1	1	1	1	Pass
+sub-20054_ses-2	BHRC	BHRC-2	-64	1	1	1	1	1	1	Pass
+sub-20095_ses-1	BHRC	BHRC-2	-91	1	1	1	1	1	1	Pass
+sub-20171_ses-1	BHRC	BHRC-2	-100	1	1	1	1	1	1	Pass
+sub-20284_ses-2	BHRC	BHRC-2	-45	1	1	1	1	1	1	Pass
+sub-20293_ses-1	BHRC	BHRC-2	-72	1	1	1	1	1	1	Pass
+sub-20302_ses-1	BHRC	BHRC-2	-52	1	1	1	1	1	1	Pass
+sub-20303_ses-1	BHRC	BHRC-2	-68	1	0.75	1	1	1	0.95	Artifact
+sub-20324_ses-1	BHRC	BHRC-2	-75	1	1	1	1	1	1	Pass
+sub-20343_ses-1	BHRC	BHRC-2	-118	1	1	1	1	1	1	Pass
+sub-20386_ses-2	BHRC	BHRC-2	-56	1	1	1	1	1	1	Pass
+sub-20396_ses-1	BHRC	BHRC-2	-81	1	1	1	1	1	1	Pass
+sub-20442_ses-1	BHRC	BHRC-2	-66	1	1	1	1	1	1	Pass
+sub-20446_ses-2	BHRC	BHRC-2	-74	1	1	1	1	1	1	Pass
+sub-20451_ses-1	BHRC	BHRC-2	-111	1	1	1	1	1	1	Pass
+sub-20466_ses-2	BHRC	BHRC-2	-61	1	1	1	1	1	1	Pass
+sub-20502_ses-1	BHRC	BHRC-2	-71	1	1	1	1	1	1	Pass
+sub-20504_ses-1	BHRC	BHRC-2	-49	1	1	1	1	1	1	Pass
+sub-20505_ses-2	BHRC	BHRC-2	-41	1	1	1	1	1	1	Pass
+sub-20526_ses-1	BHRC	BHRC-2	-82	1	1	1	1	1	1	Pass
+sub-20544_ses-2	BHRC	BHRC-2	-40	1	1	1	1	1	1	Pass
+sub-20581_ses-2	BHRC	BHRC-2	-54	1	1	1	1	1	1	Pass
+sub-20584_ses-1	BHRC	BHRC-2	-96	1	1	1	1	1	1	Pass
+sub-20643_ses-2	BHRC	BHRC-2	-71	1	1	1	1	1	1	Pass
+sub-20653_ses-1	BHRC	BHRC-2	-57	1	1	1	1	1	1	Pass
+sub-20654_ses-2	BHRC	BHRC-2	-47	1	0.75	1	1	1	0.95	Artifact
+sub-20674_ses-2	BHRC	BHRC-2	-48	1	1	1	1	1	1	Pass
+sub-20693_ses-1	BHRC	BHRC-2	-89	1	1	1	1	1	1	Pass
+sub-20699_ses-2	BHRC	BHRC-2	-37	1	1	1	1	1	1	Pass
+sub-20706_ses-1	BHRC	BHRC-2	-59	1	1	1	1	1	1	Pass
+sub-20726_ses-1	BHRC	BHRC-2	-95	1	1	1	1	1	1	Pass
+sub-20738_ses-1	BHRC	BHRC-2	-79	1	1	1	1	1	1	Pass
+sub-20767_ses-1	BHRC	BHRC-2	-62	1	1	1	1	1	1	Pass
+sub-20773_ses-1	BHRC	BHRC-2	-50	1	1	1	1	1	1	Pass
+sub-20837_ses-1	BHRC	BHRC-2	-58	1	1	1	1	1	1	Pass
+sub-20841_ses-1	BHRC	BHRC-2	-43	1	1	1	1	1	1	Pass
+sub-20846_ses-1	BHRC	BHRC-2	-84	1	1	1	1	1	1	Pass
+sub-20871_ses-1	BHRC	BHRC-2	-60	1	1	1	1	1	1	Pass
+sub-20871_ses-2	BHRC	BHRC-2	-35	1	1	1	1	1	1	Pass
+sub-20878_ses-2	BHRC	BHRC-2	-31	1	1	1	1	1	1	Pass
+sub-20887_ses-2	BHRC	BHRC-2	-77	1	1	1	1	1	1	Pass
+sub-20927_ses-1	BHRC	BHRC-2	-69	1	1	1	1	1	1	Pass
+sub-20939_ses-2	BHRC	BHRC-2	-97	1	1	1	1	1	1	Pass
+sub-20943_ses-2	BHRC	BHRC-2	-64	1	1	1	1	1	1	Pass
+sub-20951_ses-1	BHRC	BHRC-2	-87	1	1	1	1	1	1	Pass
+sub-21011_ses-2	BHRC	BHRC-2	-55	1	1	1	1	1	1	Pass
+sub-21039_ses-2	BHRC	BHRC-2	-47	1	1	1	1	1	1	Pass
+sub-21052_ses-1	BHRC	BHRC-2	-93	1	1	1	1	1	1	Pass
+sub-21074_ses-1	BHRC	BHRC-2	-67	1	1	1	1	1	1	Pass
+sub-21077_ses-2	BHRC	BHRC-2	-70	1	1	1	1	1	1	Pass
+sub-21090_ses-1	BHRC	BHRC-2	-65	1	1	1	1	1	1	Pass
+sub-21093_ses-1	BHRC	BHRC-2	-85	1	1	1	1	0.75	0.95	Artifact
+sub-21272_ses-2	BHRC	BHRC-2	-188	1	0.25	0.5	0.25	0	0.4	Artifact
+sub-21083_ses-1	BHRC	BHRC-2	-74	1	1	1			1	Pass
